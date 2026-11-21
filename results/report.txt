@@ -1,0 +1,72 @@
+Hardware (latency): arm | 14 logical cores | torch threads = 10 | Darwin
+
+
+=== Lexicon + edit distance (rules) ===
+              precision    recall  f1-score   support
+
+         NOT     0.8679    0.7525    0.8061      2812
+         OFF     0.3615    0.5503    0.4363       716
+
+    accuracy                         0.7115      3528
+   macro avg     0.6147    0.6514    0.6212      3528
+weighted avg     0.7651    0.7115    0.7311      3528
+
+confusion matrix [rows=true NOT/OFF, cols=pred NOT/OFF]:
+[[2116  696]
+ [ 322  394]]
+
+=== tf-idf + Logistic Regression ===
+              precision    recall  f1-score   support
+
+         NOT     0.9073    0.9011    0.9042      2812
+         OFF     0.6218    0.6383    0.6299       716
+
+    accuracy                         0.8478      3528
+   macro avg     0.7645    0.7697    0.7671      3528
+weighted avg     0.8493    0.8478    0.8485      3528
+
+confusion matrix [rows=true NOT/OFF, cols=pred NOT/OFF]:
+[[2534  278]
+ [ 259  457]]
+
+=== word2vec + feed-forward NN ===
+              precision    recall  f1-score   support
+
+         NOT     0.8770    0.8393    0.8577      2812
+         OFF     0.4600    0.5377    0.4958       716
+
+    accuracy                         0.7781      3528
+   macro avg     0.6685    0.6885    0.6768      3528
+weighted avg     0.7924    0.7781    0.7843      3528
+
+confusion matrix [rows=true NOT/OFF, cols=pred NOT/OFF]:
+[[2360  452]
+ [ 331  385]]
+
+=== BERTurk fine-tuned (FP32) ===
+              precision    recall  f1-score   support
+
+         NOT     0.9123    0.9474    0.9295      2812
+         OFF     0.7566    0.6425    0.6949       716
+
+    accuracy                         0.8855      3528
+   macro avg     0.8345    0.7949    0.8122      3528
+weighted avg     0.8807    0.8855    0.8819      3528
+
+confusion matrix [rows=true NOT/OFF, cols=pred NOT/OFF]:
+[[2664  148]
+ [ 256  460]]
+
+=== BERTurk dynamic INT8 (quantized) ===
+              precision    recall  f1-score   support
+
+         NOT     0.9131    0.9523    0.9323      2812
+         OFF     0.7748    0.6439    0.7033       716
+
+    accuracy                         0.8897      3528
+   macro avg     0.8439    0.7981    0.8178      3528
+weighted avg     0.8850    0.8897    0.8858      3528
+
+confusion matrix [rows=true NOT/OFF, cols=pred NOT/OFF]:
+[[2678  134]
+ [ 255  461]]

@@ -1,0 +1,35 @@
+digraph G {
+  rankdir=LR; fontname="Helvetica"; node [fontname="Helvetica", fontsize=11, shape=box, style="rounded,filled", fillcolor="#ffffff"];
+  edge [fontname="Helvetica", fontsize=9];
+  user [label="User\n(browser)", shape=oval, fillcolor="#e8eefc"];
+
+  subgraph cluster_app { label="app.py – Gradio app · runs on CPU (laptop / Colab CPU)"; style="rounded"; color="#4a6fd1";
+    ui   [label="Gradio UI\nchat box · model switch\nlatency log · compare table", fillcolor="#e8eefc"];
+    ln   [label="light_normalize()  [B]\nregex: URL/@USER,\nrepeated letters", fillcolor="#fff4d6"];
+    tok  [label="BERTurk WordPiece\ntokenizer  [C]\nmax 64 tokens", fillcolor="#e3f4e6"];
+    q    [label="BERTurk fine-tuned\nDYNAMIC INT8  [C+D]\n(Linear=INT8, emb.=FP32)\nDEFAULT MODEL", fillcolor="#c9ecd0", penwidth=2];
+    post [label="P(OFF) (softmax / lexicon score)\nthreshold 0.5\nlabel + confidence", fillcolor="#f0f0f0"];
+    mask [label="masking  [B]\nlexicon + edit distance\n→ s***** / hidden", fillcolor="#fff4d6"];
+    nrm  [label="normalize()  [B]\nlower-case TR, leetspeak,\nrepeats, s.i.k → sik,\nç→c ş→s …", fillcolor="#fff4d6"];
+    lex  [label="Lexicon matcher  [B]\nLevenshtein ≤ 1\n(rule baseline)", fillcolor="#fff4d6"];
+    tfidf[label="tf-idf (word+char)\n+ Logistic Regression [B]\nFP64", fillcolor="#fff4d6"];
+    ffn  [label="own word2vec 100d [B]\nmean+max pool →\nFFN 200-128-2 [A]  FP32", fillcolor="#fde7e7"];
+    fp32 [label="BERTurk fine-tuned\nFP32  [C]", fillcolor="#e3f4e6"];
+  }
+
+  subgraph cluster_off { label="Offline training (train_all.py) · Google Colab GPU"; style="rounded,dashed"; color="#888888";
+    data [label="OffensEval-TR 2020\ntrain 90% / dev 10%\nofficial test (held-out)", shape=cylinder, fillcolor="#f5f5f5"];
+    tr   [label="train_baselines.py\ntrain_w2v_ffn.py (SGD)\ntrain_bert.py (AdamW)\nquantize.py\nevaluate.py", fillcolor="#f5f5f5"];
+    hub  [label="models/  → Hugging Face Hub\n(not in git)", shape=folder, fillcolor="#f5f5f5"];
+  }
+
+  user -> ui [label="types message"];
+  ui -> ln -> tok -> q -> post -> mask -> ui [color="#2e7d32", penwidth=2];
+  ui -> nrm [style=dashed, label="compare / switch"];
+  nrm -> lex; nrm -> tfidf; nrm -> ffn;
+  tok -> fp32 [style=dashed, label="compare / switch"];
+  lex -> post [style=dashed]; tfidf -> post [style=dashed]; ffn -> post [style=dashed]; fp32 -> post [style=dashed];
+  ui -> user [label="label · confidence · ms"];
+  data -> tr -> hub;
+  hub -> q [style=dotted, label="load weights"];
+}

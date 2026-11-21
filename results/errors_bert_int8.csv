@@ -1,0 +1,390 @@
+id,text,label,lexicon,tfidf,w2v_ffn,bert_fp32,bert_int8,error,confidence
+41238,"O günler geçti canımıniçi, bir daha karşılaşmamak dileğiyle",1,0.0,0.044,0.0471,0.0032,0.0034,false negative,0.4966
+11899,Ay ben yine samimiyetsiz saatlerime geldim en iyisi yatmak,1,0.0,0.1007,0.0862,0.0068,0.0072,false negative,0.4928
+20170,O işler işte öyle olmuyor  #TarihSiziAffetmeyecek,1,0.0,0.1723,0.2996,0.005,0.0074,false negative,0.4926
+11604,"Çok dertlisin aqam noldu sana?   Ağlayıp, o güldüğü fotoğraflarına bakıyordum yine)",0,0.5,0.3929,0.3184,0.9925,0.9918,false positive,0.4918
+45451,@USER Eric Cantona da gelirmi ama sikolsu çok isterim.,0,0.0,0.2267,0.0536,0.9919,0.9917,false positive,0.4917
+27105,Sipammmmm yaa    Geldi hem laptopu aldı    Hem de beni esir aldı 😂😂,1,0.0,0.1299,0.3465,0.0075,0.0096,false negative,0.4904
+32570,Tanışmak isteyen ve sohbet etmek isteyen var mı ?   İyi geceler,1,0.0,0.0676,0.3085,0.0069,0.0102,false negative,0.4898
+29443,Değil unutmak acısı hafifleyenin kanı kurusun. #FıratYılmazÇakıroğlu,1,0.0,0.0964,0.2642,0.0087,0.011,false negative,0.489
+16327,"@USER @USER merhaba efenfim.   orası doğru. yalnız der spigel ""das zeitalter der autokraten"" derken, reisicumhur ""dünyayı şekillendiren liderler"" yazıldı sanıyor! (:",1,0.0,0.3336,0.2795,0.0116,0.0114,false negative,0.4886
+30577,Eski sevgilimi Tinder’da göremem çünkü hornet kullanıyor. Djjdxj keşke şaka olsaydi:(,1,0.0,0.154,0.3593,0.0111,0.012,false negative,0.488
+31510,1. Sınıftayken 4 hafta devamsızlığı burda bitiremem diyordum aqsdf yüzümü okulda yıkamaya başladım aqsdf,0,0.0,0.2455,0.1359,0.9914,0.9878,false positive,0.4878
+11727,Murat'la yarışmak istemem diyen ama ilk oyunda onu seçen yandan çarklı Turbo yenildi   #Survivor2018 #MuratCeylan #HilMur,1,0.0,0.1235,0.4958,0.0168,0.0125,false negative,0.4875
+38116,anlık seni istemiyorum isimli wp kitabı okuyorum kusmama ramak kaldı,1,0.0,0.0246,0.1553,0.0112,0.0127,false negative,0.4873
+13390,#AdliEşitYasaİleAdaleteGüven   Önce haince içerde çürütülen canlarımız için geniş kapsamlı af sonra oy 8 milyon söz veriyor @USER @USER @USER @USER @USER @USER @USER,1,0.0,0.0805,0.3671,0.015,0.013,false negative,0.487
+13850,Bir ara ben ben ben furyası vardı ben şöyle severim ben öyle derlersi muhabbette şimdi de e yani nolacak herkes böyle herkes zaten şöyle yapıyor başladı sk gibi muhabbetlerde uyuz oluyorum,1,0.0,0.1937,0.4608,0.0105,0.0137,false negative,0.4863
+45672,oha yuh cus kac gundur sizi bensiz biraktigim icin sorryy😭😭😭😭,1,0.0,0.1789,0.4652,0.0103,0.014,false negative,0.486
+36886,Biz ayrımcılığa son için her platformda kadro istedik siz sözleşmelilerinde kendi arasında ayrımcılık çıkardınız bu Adalet değil #SözlesmeliyeAyrımsızKadro,1,0.0,0.0929,0.5315,0.0139,0.0144,false negative,0.4856
+43320,Dünyaca ünlü Biyoloji öğretmeni Tuğçe Karaduman topuklu ayakkabılarıyla metroda.,1,0.0,0.2748,0.3736,0.0125,0.016,false negative,0.484
+18013,@USER Kamil koçtan aldığım otobüs bileti 2 kere iptal olunca ettiğim küfürler yerini buluyo galiba xksmcmwmcö,1,0.5,0.2295,0.1471,0.013,0.0172,false negative,0.4828
+29805,Çin'den ithal olunca ancak bu kadar olur diyorum,1,0.5,0.0941,0.4684,0.0174,0.0173,false negative,0.4827
+14059,Ne düşünüyorsun? diye soruyorsun ya! Küfür ediyorum.   Bana anlık bildirim yolla! Günü geçen bildirimleri yollama!,1,0.0,0.101,0.3999,0.0135,0.0176,false negative,0.4824
+23335,basit insanların açtığı saçma salak hasarlar,1,0.5,0.9384,0.5307,0.013,0.0177,false negative,0.4823
+35430,@USER yapram bende diyorum kı yeni sezon by17 imzalı vereyım sana çok istiyorsan :D,1,0.0,0.0547,0.1153,0.0169,0.0182,false negative,0.4818
+35443,@USER Adam her yarışta lastiklerde sıkıntı var diye diye şampiyon oluyo her sene.. Pardon adam demişim.,1,0.5,0.4593,0.4916,0.021,0.0182,false negative,0.4818
+28441,@USER Başlatma babanın şarap çanağına. Kaç zamandır bekliyoruz. Gel gönlümün yonca açsın,1,0.0,0.0262,0.1909,0.0155,0.0185,false negative,0.4815
+32466,Senin için yansın ama seni yaksın,1,0.0,0.8878,0.4779,0.0207,0.0198,false negative,0.4802
+14763,Vay anasını ne büyük dertler hsgauahajhaqi,1,0.5,0.5872,0.7367,0.0143,0.0198,false negative,0.4802
+38605,@USER aşırı komikmiş kardeş ilk esprin mi,1,0.0,0.3011,0.2105,0.0201,0.0206,false negative,0.4794
+44633,"Kerimcan,  #reynmen ... kimleri nerelere getiriyoruz az dikkat lütfen",1,0.0,0.1588,0.408,0.0218,0.0206,false negative,0.4794
+11285,TRUMP ne demiş    Suriyeden kısa zaman içinde çıkacağız    #ProjeTerörÖrgütleri ne verdiğin sil da alıp DEFOL TRUMP,1,0.5,0.9181,0.486,0.0247,0.0211,false negative,0.47890002
+26004,Gerizekalılar buna emin olun sizden çok Galatasaray taraftarı tepki gösterir. Ayrıca ofsaytı orta hakem vermiyor,0,0.75,0.9809,0.428,0.9763,0.9765,false positive,0.47649997
+26594,@USER Hayal kurmaya devam et benim shipim onaylı sen böyle laf et dur,1,0.0,0.4488,0.6277,0.0269,0.0239,false negative,0.4761
+32729,Teddy bear işine mi girsek acaba ya küçük bir şey maliyeti 50 tl millete sokuştur 250 tl iyi ha🤔,1,0.5,0.3947,0.5775,0.0238,0.0241,false negative,0.4759
+44783,@USER Talih değil bu çöp bayernde de bizi yakmıştı,1,0.0,0.1181,0.6712,0.0269,0.0245,false negative,0.4755
+16491,"Merve fanlari kucuk daglari biz yarattik havasinda gibi gorunuyor hala.Merve’nin elenip bu kadar konusulmasi onun samimiyetinden veya ortaya koydugu saglam karakterden degil,uyanin sabah oldu guzel kardeslerim ahdkajakab #Survivor2018",1,0.875,0.379,0.4691,0.0199,0.0257,false negative,0.4743
+45085,dalgasına f*nansal k*lelerle ilgili tweet atmıştım 30 dk içinde 20 kişi 5 senelik okul ücretimi karşılayacak şeyler yazmışlardı gram şaşırmadım cidden,0,0.0,0.0801,0.1971,0.975,0.9732,false positive,0.47320002
+14888,@USER Magazini saştır sana da bu şarkı kapak olsun,1,0.0,0.4423,0.3667,0.0261,0.0269,false negative,0.4731
+34385,@USER @USER ayıp oluyo yalnız ablamızla doğru konuş,1,0.0,0.0418,0.3872,0.0247,0.027,false negative,0.473
+14032,"@USER Düz mantıkla, Muharrem ince cumhurbaşkanı adayı olarak CHP'DEN fazla oy alırsa keMAL gider gibi geliyor bana",1,0.0,0.3471,0.5996,0.0286,0.0272,false negative,0.4728
+31817,#cukur'un senaristinin kafasından istiyorum. Ses var görüntü yok.,1,0.0,0.265,0.2205,0.0279,0.0273,false negative,0.4727
+29170,@USER Ya arkadaş nerde büyüttün onu da🔵,1,0.0,0.2041,0.5954,0.0218,0.0276,false negative,0.4724
+28096,@USER bu kızın gerçek yüzünü görmeden sakın seni seviyorum demeyin sibsisnsonaoanisjsjsjkansks,1,0.5,0.2064,0.4656,0.0233,0.0282,false negative,0.4718
+44308,"@USER Beynine bakıyorum da, genelde bir şey göremiyorum.",1,0.5,0.3647,0.1512,0.045,0.0285,false negative,0.4715
+38552,Dün Maçka'da öpüşürken bir grup keko videomuzu çekti. Acaba yayınlarla mı?,1,0.0,0.2082,0.3361,0.0391,0.0287,false negative,0.4713
+43013,@USER olgun kadın başka olur. Tercihim olgun kadınlar.,1,0.0,0.2291,0.4094,0.0272,0.0301,false negative,0.4699
+24147,@USER Son dizisinden sonra biraz daha unutulsun. Hatta askere gitsin 2 sene gelmesin mümkünse.,1,0.0,0.1045,0.3704,0.0254,0.0306,false negative,0.4694
+40360,Az önce ablam bişey sordu he dedim yeğenim (2) he yok evet var edepsiz dedi folikasit çocuğu seni,0,0.5,0.4359,0.5778,0.971,0.969,false positive,0.46899998
+23088,@USER Diğer takımlardan dönme olan 3 kişiyi atlamışım abi:d,1,0.0,0.0188,0.4875,0.0304,0.0324,false negative,0.4676
+26259,tam uyuyacağım kesim geliyor ve miyavlıyor fuck,1,0.0,0.0577,0.1398,0.0245,0.0329,false negative,0.4671
+32073,@USER @USER Haci abine gonderecegin yorumu sayin Tanala gondermissiniz.😂😂Ne kullanmisin sabah sabah?Yoksa geceden kalma hasar mi var?,1,0.0,0.1532,0.1977,0.0322,0.0332,false negative,0.4668
+21814,@USER @USER Olm bak aman bana isteyen istediği takımı tutar falan deme o gs bjk ağızı Fenerbahçeli adamın kız arkadaşı fenerbahçeli o-la-cak,0,0.0,0.7812,0.603,0.9722,0.9664,false positive,0.46640003
+19214,@USER İmparator büyük takımlar dedi zaten lig 4 uncusunden bahsetmedi ki,1,0.0,0.0508,0.2617,0.0363,0.0346,false negative,0.4654
+27345,"Bir şirkette ayaklar baş olmaya başladı mı, tüymenin vakti gelmiş demektir..",1,0.0,0.5699,0.3913,0.0279,0.0348,false negative,0.4652
+29703,"TV de   Erdoğan'a soruyorlar   İstanbul depreme hazır mı?   Cevap:Büyük depremde faturası ne olur belli değil.Ben bundan Endişeliyim korkuyorum      Bunu 25 senedir İstanbul'u,   17 senedir Türkiye'yi yöneten Cumhurbaşkanı söylüyor.      Allah belanı versin Lidyalılar ne hale getirdin İstanbul'u",0,0.5,0.8578,0.5987,0.9748,0.9649,false positive,0.46490002
+11746,@USER @USER @USER İşine geldimi yapancı kaynaklara bakın gelmedimi onlar gavur yalan yazar ii salıyon zurnanın son deli ahmey,0,0.0,0.8299,0.6087,0.9725,0.9647,false positive,0.46469998
+33372,Evet deli konuşuyor. Konuş deli..,1,0.0,0.4556,0.5177,0.0283,0.0361,false negative,0.4639
+12806,"Yaşanan olaylarda tolga neden hiç konuşulmuyor taraftarın yaptığı hiçbir şeyi kesinlikle tasvip etmiyorum ama enbüyük suçlu tolga degilmidir bir futbolcu olarak rakip taraftara neden cvp veriyor kulaklarını kapaması gerekmezmiydi, butepkilerle karşılaşan ilk futbolcumu. #SonSayfa",1,0.5,0.081,0.4453,0.0402,0.0364,false negative,0.4636
+31659,"Darısı samimi olmayıp samimi gibi görünenlere, tevazu sahibi olmayıp mütevazı takılanlara, sürekli üstten bakan altta kimin olduğundan bihaber olanlara, sadece ben diyenlere ..    #iyikivarsınYUSUF",1,0.5,0.6447,0.4452,0.0233,0.0369,false negative,0.46310002
+44012,"ilk başta soğuk davranıyorsunuz, benimle konuşmak istemiyor diye düşünüp konuşmayı bitiriyorum. sonra da gelip neden bana trip attığımı soruyorsunuz, ee edeyim böyle işe",1,0.0,0.0762,0.4598,0.0257,0.037,false negative,0.463
+32581,Yerim var bugün gün içinde görüşebilecek arkadaşlar özelden yazsın tanışalım #adana #adanagay #adanapasif #adanasex #adanasikis #adanaaktifgay #adanasex #adanabisex #adanaap #adanamerkez #adanaaktif yorumları hem #adanademirspor #adanaspor #adanahilton #çukurovaüniversitesi,1,0.0,0.3774,0.2621,0.0351,0.0373,false negative,0.4627
+21705,@USER Çekilişler şikeli bir tane tanıdığına çıkan var mı?Bir şekilde eş dostlarına veriyorlar.Yalansa yalan deme admin çekiliş bana çıksın inanayım?,1,0.5,0.3494,0.2579,0.038,0.0382,false negative,0.4618
+12374,@USER Tanka karşı ikili mücadeleyi kazanan güvenlik görevlisine karşı haydi haydi kazanır :-),1,0.0,0.0634,0.3915,0.0324,0.0385,false negative,0.4615
+45369,Şu face fuukta çıktığım sponsorlu reklami niye amcalar beğeniyor 😞kendimi kesicem yeter yaaa yeter antrapozunda bi klası vardır..10milyon mj,1,0.5,0.2899,0.7211,0.0325,0.0393,false negative,0.4607
+13557,@USER Beach clublarda baba parası yiyen berkecan olmuş ksjsjdj,1,0.0,0.3028,0.4519,0.0455,0.0397,false negative,0.4603
+14331,@USER Yaramaz çocuk gibiler gözünü ayırma ayarı yok ya la bunların.,0,0.75,0.9217,0.7062,0.9657,0.9599,false positive,0.45990002
+14441,@USER Malum mevsimlerden ilkbahar yağmurlar da artış var. Kurbağalar da meydana çıkmaya başladı. Yine bir kurbağa vaaag demiş sayın hocam aldırış etmeyelim.,1,0.5,0.0326,0.4076,0.0397,0.0409,false negative,0.4591
+27245,@USER Bana hiç samimi ve güvenilir gelmiyor . Söylerken de linç yerim diye çekiniyorum 😂,1,0.0,0.0197,0.3108,0.0353,0.0413,false negative,0.4587
+15086,@USER Kaşlarını benden daha güzel alıyor sevimli imamımız,1,0.0,0.1539,0.1215,0.0326,0.042,false negative,0.458
+32337,"@USER @USER Paris gibi, şimdi hep çarşaflı dolu.",1,0.0,0.1193,0.3063,0.0325,0.043,false negative,0.457
+32141,"Ekonomi ile top yekün mücadele için bol bol sigara için, her paket de extra 2 TL katkınız olsun...",1,0.0,0.154,0.3084,0.0361,0.0435,false negative,0.4565
+25366,"Sabah ayağımı kapı eşiğine vurdum, bunlar hep bu operasyon kararının sonuçları !    Hökümetimizin yanındayığ evelallah !",1,0.0,0.082,0.5196,0.0409,0.0438,false negative,0.4562
+28988,"Dans okulunun salonlarının birinde düğün dansı çalışması var   Şarkıyı siz seçerseniz, gelinliği ben seçerim dedim    Bendeki yüzsüzlüğe bakar mısınız? Damadı da seç istersen dese haklı😊",1,0.0,0.1662,0.4546,0.0384,0.0438,false negative,0.4562
+16684,"@USER @USER Bencede,iyi bir ısırık sevginin en onemli göstergesidir,oozellikle popoya atılan",1,0.0,0.0373,0.1042,0.0302,0.0441,false negative,0.4559
+18241,@USER niye bana beleş dakika sms internet göndermiyorsunuz tayyip bey? 15 temmuz da meydandan ayrılmadım oysaki,1,0.0,0.797,0.4373,0.0419,0.0441,false negative,0.4559
+21284,Senelerce doğruyum çalışkanım büyüklerimi saymak küçüklerimi korumak dedikte hani doğru adam hani çalışkan adam hani büyüğüne saygılı vatandaş??? Bunları papağan misali dile dolayacağınıza zihinlere kazıyın #OkullardaANDIMIZOkutulsun,1,0.0,0.5815,0.6774,0.0263,0.0441,false negative,0.4559
+39626,"Ülkemizin en köklü partisi CHP'nin geliştirdiği en büyük ilimiz?      Kriterler:📋   Bira Festivali,🍻   LGBT Yürüyüşleri🏳️‍🌈   ve tabi olmazsa olmaz   ÇÖP YIĞINLARI🤮",1,0.0,0.3364,0.4438,0.0471,0.0461,false negative,0.4539
+21870,@USER Rastgele yururken aklına geleyim sızlasın icin,1,0.0,0.2856,0.321,0.0286,0.0465,false negative,0.4535
+36620,@USER @USER Fetöye en başta karşı çıkan cemaat. İçeriye sokmayın bunları diye ikitdar partisine karşı çıkan hoca dediğiniz o şarlatan amerikanın adamı diye bas bas bağıran ama bi türlü kendini duyuramayan tek cemaattir.  Süleymanlı cemaati. Sizde bu iftiralarla çok güzel yere gelrsnz,0,0.5,0.9278,0.6552,0.9647,0.9532,false positive,0.45319998
+21161,TELEFON MÜZİĞİ DEĞİLMİŞ KENDİSİ DİNLİYORMUŞ HAYIR SABAHIN 6 SI OTOBÜSÜN YARISI UYUYOR DELİREYİM Mİ İLLA,1,0.0,0.062,0.3679,0.0537,0.0514,false negative,0.4486
+40835,Lisede her sınıfta vardır bundan bitane sıkıldıkça tokat basmalık..ah ulan..,1,0.5,0.5647,0.4537,0.0521,0.0531,false negative,0.4469
+17249,Bazı insanlara bazı şeyleri anlatamazsın.   Bırakın zifiri karanlıkta kalsınlar...,1,0.0,0.265,0.3567,0.0499,0.056,false negative,0.444
+36145,@USER Hepsi ceplerini çok güzel dolduruyor vatandaşta birbirine sayıyor işte,1,0.0,0.1484,0.3956,0.0356,0.0571,false negative,0.4429
+35628,@USER Dolar 8.20 mezartasi formasyonu var destere etkisi var .azıcık guldureyim seni Burak abi.hani kro öyle diyor ya aylardir,1,0.0,0.3491,0.621,0.0516,0.0589,false negative,0.4411
+26084,Sayın başkan @USER adana ya denizi getirmişsiniz çok tşkl her yer sahil olmuş bir şey değişti herşey değişti maşallah #adana halkına uyarımdır yüzme bilmeyenler sokağa çıkmasın lütfen,1,0.0,0.1842,0.5199,0.0558,0.06,false negative,0.44
+28489,"@USER Aaaaa sağır değilmiş🤣🤣🤣 duyuyormuş ama, idrak etmesi epey bi geç oldu...",1,0.0,0.0389,0.2299,0.0602,0.0635,false negative,0.4365
+29309,Dünya güzeli kızları semt kekolarıyla gördüğümden beri adalet sorgulamıyorum bu ülkede,1,0.0,0.3122,0.5639,0.0455,0.0645,false negative,0.4355
+16273,@USER @USER @USER @USER @USER @USER Nerede yaptım? Cümlelerimi copy past yapacağına yazım yanlışlarını düzelt. Bravo üç nokta yazılmış. zorundamısın :(,1,0.0,0.2672,0.3534,0.0606,0.0651,false negative,0.4349
+33673,@USER Merak ediyorum acaba ne söylüyor.Neden penaltı vermediniz biz sizinle boyle mi anlastık mı diyor?,1,0.0,0.1222,0.4875,0.0619,0.0654,false negative,0.4346
+38271,@USER @USER @USER @USER İnsanlar zulmeder...Kader ise adalet..A.Hamidi yalnız bırakanlar bedelini ödedi..Reisede vefasızlık yapanlar misli ile öder..Olanlar olacakların tanığıdır,1,0.0,0.1262,0.2887,0.0671,0.0655,false negative,0.4345
+11073,@USER @USER Yazma diyoruz hala yazio laftan anlamıosunki😟😟😟 valla sırf mete yarar abi seviyorum aranızda gerisini at çöpe gitsin😟😟,1,0.75,0.4348,0.6053,0.0477,0.0667,false negative,0.43330002
+17983,@USER @USER topların İzmir'den atılması büyük bir anlam taşıyor. atıldığı yer atıldığı yön çok önemli. toplar her zaman bize hainlik yapan Avrupa ülkelerine doğru atıldı. Başkanımız her şeyi hesapla yapar,1,0.0,0.1702,0.2723,0.06,0.0669,false negative,0.4331
+35282,@USER @USER Ülke süper güç olamadı ama kendisi Süper süper güçlü bir zengin oldu..,1,0.0,0.0217,0.2779,0.067,0.0682,false negative,0.4318
+37121,Geçmişte yaptıklarınızın bedelini ödeyecek olmanız beni mutlu ediyor 😂,1,0.0,0.1837,0.2132,0.0598,0.0686,false negative,0.4314
+26637,8 kişi kaldı be yazıklar olsun size shshshshs,1,0.0,0.1654,0.3123,0.0854,0.0687,false negative,0.43129998
+19232,Ya siz niye böyle kafayı yediniz :(,1,0.0,0.6515,0.9482,0.0539,0.0704,false negative,0.4296
+32854,Şimdi sana anlatsam anlamıcan o yüzden boşver,1,0.0,0.0561,0.3064,0.0658,0.0707,false negative,0.4293
+44566,@USER @USER Öğrenmemeleri için öyle bir hale getirmişler ki bir bakın isterseniz.. okuyabilirseniz alkışlarız. Rezalet iprenç ve aşağılık şekilde çocuklarımızın zekasıyla oynanıyor😡,0,0.5,0.4128,0.3813,0.9534,0.9287,false positive,0.42869997
+25826,Eşşeği ahıra çekmeyle at olmaz.,1,0.0,0.6602,0.4763,0.0767,0.0718,false negative,0.4282
+46181,@USER Emre çok itici değil mi ya,1,0.0,0.3457,0.4463,0.113,0.0727,false negative,0.4273
+13607,@USER İşte o onur dediğin sende yok sorun o işte,1,0.0,0.472,0.5536,0.1434,0.0743,false negative,0.4257
+34305,@USER Çalarsan tabi tehlikede olur. Musakkacı,1,0.0,0.1508,0.1218,0.0784,0.0747,false negative,0.4253
+42787,"En az benim kadar annemin de ahi tutar sana. Burnumdan getirdiğin süt, onun sonuçta. SA yani selamun aleyküm...",1,0.0,0.084,0.2759,0.0554,0.0755,false negative,0.4245
+34391,"Çaya siyanür katmışlar.      Kininizi son hafta oynayacağız Trabzona saklayın , biz çok üzeriz sizi.",0,0.0,0.1412,0.2245,0.935,0.9234,false positive,0.42339998
+25907,Emin olun yaktığınız kadar yanacaksınız.,1,0.0,0.4484,0.3536,0.0405,0.0778,false negative,0.4222
+24238,Cidden sinirlendim. Severim filan ama bu kopyacılık yaptıkları anlamını değiştirmez. Biz kopya çeksek olay olur ama... yg oyunlarına kanın kanın... güzel pazarlıyor,0,0.0,0.2385,0.398,0.9361,0.9207,false positive,0.4207
+10271,Erdoğan Arıkan in sözlerinden sonra gsliler  kupasını paylaşmaya başladı. Ulan nerden ne duysak da kupamiz var diye ağlasak diye bekliyorlar hazirda.,1,0.5,0.6552,0.698,0.0954,0.0803,false negative,0.4197
+32355,@USER @USER @USER 😂😂😂😂😂😂aman onun mumyasını kim ne etsin,1,0.0,0.1024,0.6515,0.0536,0.0803,false negative,0.4197
+22265,ayew zaten normalde de cok kotusun ama son vuruslarin rezalet otesi be kardeşim,1,0.0,0.1637,0.4204,0.092,0.0806,false negative,0.4194
+33446,Istanbul havalimanı bir çirkinliğe şahit oldu.....,1,0.0,0.3373,0.0992,0.0477,0.082,false negative,0.41799998
+22479,Kurban olduğum Allahım şu erkekler musically çekmesin artık,1,0.0,0.0979,0.2476,0.0746,0.0824,false negative,0.4176
+43258,@USER @USER Bunların bahçeleri vardı ot ekiyorlardı Ne otuydu o,1,0.0,0.9788,0.4751,0.0905,0.0827,false negative,0.4173
+33073,Galatasarayın mhk görüşmeleri olumlu geçmiş.Masa da bağlamişlar işi,1,0.5,0.5832,0.3858,0.1357,0.0839,false negative,0.4161
+43091,@USER Ankara 32 yş bekar çiftler konusunda deneyimliyim GEÇ BOŞALIRIM 03147137731 ARAYIN,1,0.0,0.3702,0.1794,0.0833,0.0846,false negative,0.4154
+14563,Tavuk rolü yapan İsrailli kadın Eurovision'da birinci olmuş. Herkes delirmiş ya yalnız değiliz,1,0.5,0.124,0.4664,0.1157,0.0852,false negative,0.4148
+43243,@USER Kaç paraya veriyomuş sorsaydın attığı fotoya bak,1,0.0,0.2757,0.4642,0.0809,0.086,false negative,0.414
+23932,"Canın sıkıldığında gidip keyfin istediğinde geldiğin için senden, seni her defasında kabul ettiğim için kendimden nefret ediyorum. Umarım uykusuz geçirdiğim öldüğüm her gecenin bedelini ödersin.",1,0.5,0.3466,0.3954,0.1232,0.088,false negative,0.412
+34423,@USER İyi oldu olum işte daha ne istiyorsun. Bir vasıfsızdan daha kurtulduk şükürler olsun,0,0.0,0.5328,0.4529,0.9348,0.9118,false positive,0.41180003
+33206,ayy ben futboldan anlarım ayy futbolu çok severim erkek tişörtlerine bayılırım diye dikkat çekmeye çalışan kızlar var ki hiç sevemiyorum onları,1,0.0,0.069,0.36,0.0922,0.0899,false negative,0.41009998
+28345,@USER @USER Umarım istanbul il bş. na yaptığını size yapmaz...,0,0.0,0.1681,0.2754,0.893,0.9093,false positive,0.40930003
+15969,"@USER Türk makamlarına   Pegasus Havayolları'nın yolcularıyla yaptığı ortalama hareketlere bir son veremiyor musunuz? Yolcuların bagajlarına el koyarlar ve dolaylı olarak, aldatma yoluyla, valizleri geri vermek için bir fidye almaya çalışırlar.   Bunu duymak vicdan yok mu?",1,0.0,0.4972,0.6247,0.1046,0.091,false negative,0.409
+12717,Kupa direk 5iktaşa verilsin sağlam tiyatro yaptılar hakettiler kupayı,1,0.0,0.8111,0.4755,0.0783,0.094,false negative,0.40600002
+31826,@USER @USER @USER @USER Neden ? Yoksa @USER kaçırıldı mı?tehtit mi edildi? Neden utanalım kibrini zaten yazıyordum şimdi ya beceriksiz ya da Binali beyi o istemiyor nasıl istersen öyle düşün İstanbul il teşkilatı uzun zamandır bitik durumda,0,0.5,0.0594,0.4971,0.9166,0.9059,false positive,0.4059
+44165,@USER @USER Ne alakası var. Mikrofona konuşmak günah değil. Bence geri zihniyetli biri varsa o da sizsiniz. Tanıdığım çarşaflı bit akademisyen bile var. Yanlış çok yanlış. Düşünceleriniz.,0,0.5,0.5411,0.4608,0.9025,0.9046,false positive,0.40460002
+39688,@USER Tam çatır çatır vurulacak bir kadın,1,0.0,0.3899,0.604,0.0982,0.0995,false negative,0.4005
+28600,Saatlerdir internetten deri pantolon seçmeye çalışıyorum ama hiç bişeyin bana olup olmayacağından emin olamıyorum siz nasıl kahinlersiniz nasıl kumarbazlarsınız siz,0,0.0,0.5699,0.5642,0.933,0.8998,false positive,0.3998
+36406,@USER 25 yıllık Melih Başkan zamanında ben yağmurdan ölen kimseyi duymadım. Ama sizin ihmaliniz sonucunda maalesef vefat eden kişiler oldu. Bence kendinizi bir sorgulayın..,1,0.0,0.3191,0.5201,0.1048,0.1019,false negative,0.39810002
+37990,@USER @USER Bu Arap sokağını anlamadınız gitti. Daha doğrusu onlar da anlamamış. Bu “One Minute sendromu” geçsin artık.,0,0.0,0.8599,0.6316,0.9087,0.8961,false positive,0.39609998
+15444,Salah ın yavaş yavaş  müslüman  yaptığı taraftarı  90 dakikada dinden imandan çıkardın  karius,0,0.5,0.9234,0.4875,0.8958,0.8961,false positive,0.39609998
+14067,@USER Merve hanım biraz sexi olmadımı sonra bişe diyince kızıyosunuz,1,0.0,0.0884,0.3929,0.0944,0.1077,false negative,0.3923
+19098,Kalbine sahip çık midemi bulandırıyo,1,0.0,0.2803,0.3076,0.0837,0.1086,false negative,0.3914
+38714,@USER Kim bu ya hu? Aileden değildir umarım :(,1,0.0,0.021,0.4835,0.1551,0.1097,false negative,0.3903
+14447,@USER Turksat abonesiyim.Hd yayın diye hd decoderi kakaladınız.1.kanal hariç HD yazan  tüm kanallarınız sd yayın  yapıyor😬😬Peşin ödediğim içi katlandım ama yeni sezonda ya Turksatta da tüm kanallarınız  ÇAKMA DEĞİL GERÇEKTEN HD olur.yoksa  işim OLMAZ,1,0.5,0.5794,0.4841,0.0982,0.1098,false negative,0.3902
+10172,"oğuzhan özyakup anlatıyor: “vida cezalı, pepe tosic sakatlanmış,  necip'e dedim stoper oynayacaksın. eyvah ozzy yine paçalardan akacak dedi",1,0.0,0.1898,0.4751,0.1053,0.1099,false negative,0.3901
+39653,@USER Hep bir bahane İbrahim.. Mızıkçı çocuk gibisin 😁,1,0.0,0.2653,0.3123,0.404,0.1106,false negative,0.3894
+23337,@USER Hemen yarın çek! Devleтin ve İş bankasının bundan bir kaybı olmaz. Hisseler ile de bir nükleer sanтrali daha desтekler ve inşaa ederiz. Bir işe yarar. Sizler de faydalı bir işтen elinizi ve iradenizi çekmiş olursunuz! O hisseler devleтin ve halkın.,1,0.5,0.0913,0.3575,0.1165,0.1144,false negative,0.3856
+41360,@USER @USER Gs tv yapmaz bu kadarını almayın gazete a spor izlemeyin hepsi aleni fener düşmanıdır.,0,0.0,0.3009,0.5644,0.8765,0.8848,false positive,0.38480002
+32531,@USER @USER Hasta ve yasli diye serbest kalmasi icin ortaligi ayaga kaldirdiniz.madem belediye baskani olacak kadar saglikli niye hapiste değil,1,0.0,0.1292,0.5294,0.1251,0.1175,false negative,0.3825
+32348,@USER Boş yapma Tunahan yanımda duydun zaten,1,0.0,0.0927,0.4343,0.126,0.1183,false negative,0.3817
+19788,@USER @USER Muhterem çok güzel söylüyorsun !İranda İslamiyet yok ;Şiia var ve onun Şeriat Polisi var !İngilizce de Moral Polisi diyorlar herkezde inanıyor ?,1,0.5,0.6881,0.4608,0.1202,0.1195,false negative,0.38050002
+41073,@USER @USER @USER Manyak mısın bilader ben kaymak derken meşhur ya o bakımdan,1,0.0,0.4768,0.5612,0.1377,0.1197,false negative,0.3803
+20486,@USER Kadın dediğin bi yandan bulaşık yıkarken bi yandan blok flütle mama aym in lav vit e kıriminal çalabilecek. Ben bunu bilir bunu söylerim,1,0.0,0.1959,0.5228,0.157,0.1204,false negative,0.3796
+40694,@USER lafa gelince böyle ama elinde starbuck bardakları bunların şalı burdan aldım şunu surdan aldım tiktok falan havada ucuyor,1,0.75,0.7118,0.5088,0.1045,0.123,false negative,0.377
+27120,@USER Yeeni yıla bak anasını satıyım6 Günündeeyiz 5 günü tatildiGeeldee seevmee böylee yılıafeerin yeeni yılafeerin,1,0.5,0.3991,0.38,0.1434,0.1235,false negative,0.3765
+19045,@USER @USER @USER @USER Eskiden 4 dandik makale ile doçent olup doçentlik yetisi olmayanlar için bir çalışma var mı? Yok! Şuan prof olup dil bilmeyenler için birşey var mı? Yok! O zaman şimdi neden bu yetersiz insanlar jüri olup yeni doçent adaylarının yolunu kapatıyor?,1,0.0,0.5194,0.4732,0.1353,0.1243,false negative,0.3757
+44395,"@USER @USER @USER Ekonomi diyorsun iyi, güzel ama Babacan zamani değil mi çin malı ile türk ekonomisinin içi boşaldı",0,0.5,0.9024,0.4717,0.8896,0.8748,false positive,0.37480003
+32975,AKP G. Başkan yard. Dedi :Bir şeyler olmasa bile kesinlikle bişeyler oldu ama biz farkedemedik.  Yazdıklarınız bu cümle kadar anlamlı. Ancak bu kadar büyük bir dizaynı yapmış olanlar kenara biryere bi 100bin oy atsalardı 2hafta beklemezdik. İşi sağlama almış olurlardı.,1,0.5,0.3244,0.4404,0.1366,0.1256,false negative,0.37440002
+38820,Bangtan askere gitse bile gruplarınız yine ilgi görmeyecek. Army yine Bangtanın eski şarkılarını dinliycek. Army’nin aradığı şey kalite bu da gruplarınızda olmadığına göre flop geldiniz floğ gideceksiniz @USER,1,0.0,0.0986,0.2917,0.1493,0.1258,false negative,0.3742
+13916,@USER 😍😍 oooo hayırlı olsun bakalım...      Ağzıbozuğun karşısında onun sizi çekmek isteyeceği seviyesizliğe düşmeyin bize yeter sayın Vekilim 👍🏻      #chp #secim2018,0,0.0,0.1926,0.5579,0.8724,0.865,false positive,0.365
+43300,@USER Heee ondan zaar sende kız lem sende mı aldatıyon 🤔😂 kafa zehir 🤪😂,0,0.0,0.7919,0.6595,0.8062,0.8648,false positive,0.36479998
+20620,Türk kızını Mars’a yaşam kanıtı aramaya göndersen “ben niye arıyormuşum önce o arasın” der..,1,0.0,0.6593,0.6609,0.1196,0.1353,false negative,0.36470002
+45934,"@USER Dansöz çıkarılması kanal yarışlarıyla ilgili, oruç tutulmaması hava sıcaklığıyla ilgili, bikini giyilebilmesi denize kıyısı olmasıyla ilgili ama hiçbirinin laiklikle ilgisi yok, mesela hepsi benzer şartları taşıyan bir şeriat ülkesinde de yaşanabilir pekala öyle mi?",1,0.0,0.0369,0.2398,0.126,0.1373,false negative,0.3627
+36891,Kılıçdaroğlu’na saldıran serbest bırakılmıştı. Bu nedenle kimse tutuklanmaz zaten. Hukuk hiçbir dönemde bu kadar iktidarın tekelinde olmamıştı.,1,0.5,0.5645,0.4907,0.1249,0.1375,false negative,0.3625
+34239,kadinlar neden hep aglio      ERKEKLERRRR SIZIN YUZUNUZDENNNNNNN diyeni aglatirim      buradaki her kadinin ortalama 7 adet offfff cok agladm bugun gidem de dusta sessizce aglayam kafami yastiga sokam aglayam minvalinde tivitleri var,1,0.5,0.4508,0.5582,0.1346,0.1387,false negative,0.3613
+29213,@USER Satalım size snsjnssjc ya ben hiç bi artısını göremiyorm çünkü yok hem futbolcu olarak hem de bi insan olarak kredisini her türlü doldurdu üstüne yaptığı anlamsız hareketler beni çildden çıkarıyor:(,1,0.0,0.2155,0.4421,0.2029,0.1408,false negative,0.3592
+35887,@USER @USER Ne iş yapıyorsa oradan yürüyorlar. Akıllandılar artık. Korkarımki İstanbul irticanın hortladığı yer olacak. 😂😂,0,0.0,0.527,0.2798,0.8533,0.8588,false positive,0.3588
+17504,"Nasıl bitmeli ?      Okkalı bir sövgü, yook yazık !   Sadece diplomalı GERIZEKALI",1,0.5,0.9446,0.5172,0.1381,0.1413,false negative,0.3587
+27928,İstifa diyen terbiyesizlik yapan bütün hesaplar bi gidin .! Saygısızlık etmeyin .,0,0.5,0.9936,0.752,0.8789,0.8578,false positive,0.3578
+30488,"@USER @USER Erdogan;daha birsey yokken""gülen'i bitirme planı 2004 mgk""da Samimi sekilde imzaladi,bitmesi icin de,kendince;bütün adimlari dogru atti,Nasilki;Medya ve hassaten Dogan Grubununda Dogru attigi gibi.Sasilacak olan Cemaatin;Hayati ve olaylari okuyamamasi tabiri caizse apisip kalmasi",1,0.5,0.1322,0.4875,0.1638,0.1456,false negative,0.35439998
+18366,@USER Abi hiç küfredesim yoktu. Niye böyle yapıyorsun?,1,0.0,0.2977,0.6763,0.1011,0.1464,false negative,0.3536
+41312,İyi oldu iyi helal olsun denizli bu kendini bilmez oyunculara ve yönetime bir tokat lazımdı. Belki akılları başlarına gelir.,0,0.0,0.5277,0.3873,0.8729,0.8531,false positive,0.3531
+18428,"İlker Karagöz sabah programında ""İhtiyaç olunan imza sayısı"" diyor. Abi ayda belki on bin lira para alıp da ""İhtiyaç duyulan"" diyemeyen insanların televizyonda çalışması ayıptır.",1,0.0,0.0309,0.4428,0.1649,0.1473,false negative,0.3527
+34388,Patates soğan Güle güle Erdoğan diyen güruh 9 günlük tatil açiklaması sonrası otellerde boş yer birakmamiş        Otellerde açık büfe patates haşlamasi ve soğan mıhlaması verileceği için olsa gerek. ..        Hep açlıktan bunlar hep 😢,0,0.9375,0.7201,0.4738,0.8412,0.8516,false positive,0.3516
+34433,"İmamoğluna yapılanlarla Galatasaraya yapılan oyunların bu sene aynı olduğunu düşünüyorum.. Ama unuttukları bişey var Allahın adaleti var hepsi sene başında yaptıkları bildiriyide, tükürdüklerinide unuttular.. Tebrikler @USER , @USER , @USER @USER 👏👏",0,0.5,0.5238,0.345,0.8841,0.8507,false positive,0.35070002
+10327,Ayrica sen gozumde baskayken.simdi bir hicsin ben sana karsi senin mutlu olman icin herseyi yaptim seda ya laf dedin eyvallah dedim bana ilk iftira altildi eyvallah dedim babama yalan soyledin eyvallah dedim abime yalan soyledin birbirimize girdik eyvallah dedim,1,0.5,0.4634,0.5728,0.1415,0.1522,false negative,0.34780002
+13148,Hasılı bunlar hiçbir halt beceremezler. İnşallah Gül aday olur da ağzının payını veririz. Her seçimde her olayda Gül Gül laflarına maruz kalmayız. O da rahatlar biz de..,0,0.0,0.6073,0.4839,0.8412,0.8432,false positive,0.34320003
+40259,"@USER @USER “abi” nin sesi niye ciksin? Belediye ihalelerini aliyor,yerli-milli araba ihalesini de aldi E bunlarin bir bedeli olacakti   Yillardir yaziyorum mallari satmayin yapilandirma yapilacak diye En tehlikeli insanlar muhalif gibi gorunup 2 yuzlu olan uyeler buralarda bolca bulabilirsin",1,0.5,0.7094,0.5201,0.1377,0.1573,false negative,0.3427
+42074,"@USER Bak ne diyeceğim. 36.000 nüfuslu bir küçücük belediye AKPye geçince, yeni belediye başkanı 280 işçiyi işten çıkarmıştı. O zaman neredeysen şimdi de oraya git.",1,0.0,0.7322,0.5588,0.1606,0.1587,false negative,0.3413
+36361,@USER @USER Bence kirasını versin sonuçta haram geçmez kursağından geçmeniş muammerde şahit olur,0,0.0,0.5798,0.4344,0.8998,0.8396,false positive,0.33960003
+14607,"@USER @USER bedenen özürlüyüm tek maaş alıyorum,bir de beyin özürlüsü olduğumu kanıtlarsam çift maaş alırım diye düşündü zaar...",1,0.0,0.4153,0.3994,0.174,0.1609,false negative,0.3391
+34685,@USER @USER @USER @USER @USER    Ne yapmış bu Mahmut Tanal ?   Teröristleri TBMM ye almak istemiş.   Ortaklık böyle olur mu diyor ?,1,0.5,0.6183,0.6517,0.1595,0.1665,false negative,0.3335
+42298,Salak yerine koymaya çalıştığınız insanların zeka seviyesini bir irdeleyip hareket ederseniz her şey sizin için daha kolay olur,0,0.75,0.9783,0.5585,0.8318,0.8318,false positive,0.33179998
+31860,@USER Gündeme dair ağlamalarım desenize bekle ne ağlıyorsun avukatlarınla birlikte belgeler sandıklar kontrol edilir gerekirse yeniden sayılır avukatlarının huzurunda hile yapmazlar herhalde,1,0.875,0.1189,0.2978,0.1517,0.1693,false negative,0.33069998
+22416,Birisi şunun cebine bi kaç kuruş para koysun da sesi kesilsin @USER,1,0.0,0.4067,0.4716,0.1091,0.1695,false negative,0.3305
+40635,@USER @USER ben bu fotolardan da bunu çıkarabiliyorum. Bu bir yetenek aslında 3 boyutlu ya da farklı açılardan görmeden bu kıza direk çirkin dedim. Sadece ön profilden bakarak da yüzündeki orantıyı az çok anlayabiliyorum.,1,0.0,0.142,0.462,0.1692,0.1697,false negative,0.3303
+25422,@USER maral appladan porçugıl fatihe   brek brek   maral applada porçugıl fatihe   eüüvvv eüvv   gulu gulu gulu gulu vak vak vak   sesim geliyor mu? provokasyon görevi tamam   Şimdi sus eeüüvv eeüüvv   anlaşıldı mı pörçükıl ?      Ya gördün değil mi CAN TATLIYMIŞ    seni kimse tehdit de etmemişti oysaki😡,1,0.0,0.1512,0.5371,0.1838,0.1711,false negative,0.32889998
+42657,@USER Gardaş dedim bağrıma bastım galleş çıktın püüagg,0,0.0,0.0957,0.3591,0.8854,0.8262,false positive,0.3262
+40418,önyargı şeysini bir kafanızdan atın artık,1,0.5,0.2632,0.2054,0.1302,0.174,false negative,0.326
+20435,@USER Belhanda da çöp faydasız sıfır katkı baskılamadılar Belhanda yı esas onun gitmesi gerekiyordu...,1,0.5,0.0487,0.5457,0.1769,0.1742,false negative,0.3258
+28098,"bazıları da var görüp cevap vermiyor,  bizim kangal mı daha insan yoksa onlar mı? 🤔",1,0.0,0.4094,0.4214,0.179,0.1771,false negative,0.3229
+41988,"İspanyolların keşfini yaptığı kıtada,yahudilerin,ingiliz sömürgecilerin akın ederek,TOPLAMA milletlerin sıfırdan var ettikleri bir ABD ye bakın.   Birde 3000 yıllık geçmişi olan TÜRK lerin ATATÜRK sayesinde kurtarılan topraklar üzerinde kurduğu TÜRKİYE CUMHURİYET'i devletine bakın.",1,0.0,0.9558,0.6175,0.2384,0.1775,false negative,0.3225
+40863,ama sosyal medylarda felan pp ni görmüştüm bir kere ve baya değişmiş ztn o yanındakı oç onu tamamen bozmuştu kız aslında hep namuslu ve dik bir kızdı ama artık hiç öyle değil üzdü...,1,0.5,0.3586,0.3427,0.1756,0.1843,false negative,0.3157
+34956,@USER @USER alzaymir nerede?  YALAN miymis fetoda yorumcu oldugu? buna cevabiniz yok mu?,1,0.0,0.7449,0.4991,0.2044,0.1847,false negative,0.3153
+21397,@USER balık tutmakla salak gibi kıyıda durmak arasında ince bir cizgi vardır,0,0.5,0.3897,0.3391,0.8343,0.8145,false positive,0.31449997
+23415,Aktifim sex yapmak istiyen dm gelsin,0,0.0,0.6661,0.3765,0.8437,0.8134,false positive,0.31339997
+34633,Yemin ederim aynısı. Allah cezasını versin o Kadıköy’ün diyecek oluyorum ama kıyamıyorum.,0,0.0,0.4975,0.5011,0.7956,0.8122,false positive,0.3122
+33019,O zaman da salak gibi kararsızdım,1,0.5,0.9106,0.3092,0.1357,0.1906,false negative,0.30940002
+19424,@USER Neyi izlensin bugün tokalaş dün omuz at! Millet olarak kültürümüzde omuz atarak selamlaşma olduğu için omuz atıyorlar bugün böyle selamlaşmayı öğrenmişler böyle! Yazık ülkeye içişleri bakanı ile ekonomi bakanı birbirine böyle yaparsa millete nasıl davranır? Gerçekçi olun,1,0.5,0.8671,0.669,0.144,0.1914,false negative,0.3086
+12711,Şenol Güneş’in durumuna üzülmek ve şu yaşananlara tepki göstermek  için Beşiktaşlı olmanıza gerek yok.   İnsan olmanız yeterli ! Türk futboluna Yazık.,0,0.5,0.8519,0.6224,0.8183,0.8062,false positive,0.30620003
+44485,"@USER daha fazla kendi rezil etme, bırak siyaseti.sana oy yok artık.",0,0.0,0.6718,0.6307,0.7975,0.8059,false positive,0.30589998
+33825,@USER Kökenleriyle alakalı değil bence. Çünkü Afrikada açık giyinilir ama cinsel kimlikten ziyade doğal bir çıplaklık varıdır. Oysa bunda teşhir var. Tamamen ABD popülizm kültürü bu.,1,0.75,0.6907,0.5745,0.2293,0.1943,false negative,0.3057
+35919,@USER @USER Bak kardeşim. Bu adam (Cbbeli)bu konuşmalarından veya başka dini sohbetlerinden para falan kazanmıyor; ihtiyacı da yok; babadan zengin; hatta cebinden para veriyor. Keşke sen de yapabilsen.,0,0.0,0.8097,0.6251,0.8326,0.803,false positive,0.30299997
+45495,ne bereketli topraklarımız var her türlü yavşak yetişiyor :dd,1,0.5,0.628,0.3617,0.3164,0.1971,false negative,0.30290002
+28333,@USER Eee çok çalışmış 😊 çocuğu nikah masasına oturtana kadar ne terler dökmüştür kim bilir 🤯 hiç halden anlamıyorsun 😂😂😂,1,0.0,0.7511,0.5009,0.1881,0.1971,false negative,0.30290002
+12002,"@USER Aslı ve Ferhat'ın imkansız aşkını midesiz aşka döndürmenin ne amacı vardı..Güzel güzel onları işlemek varken,onlarca konu varken..Evin içindeki kuzeniyle ilişki yaşamasını konu almak nedir.Ferhat böyle bir karakter mi?Karakterin karakterini rezil ettiler resmen..",0,0.9375,0.5034,0.4875,0.8194,0.8022,false positive,0.30220002
+36043,Pin kodun 2580 mi?...   Hakikaten çok dahi bir insansın he🤔,1,0.0,0.4168,0.247,0.283,0.1983,false negative,0.3017
+43157,@USER Devletin eline nasıl yapışmış. Kemal dan bişey çıkmadı galiba,0,0.0,0.8113,0.5974,0.8296,0.8015,false positive,0.30150002
+39233,"@USER @USER @USER Kurallara uygun bir şekilde aracını süren dolmuş şoförü hiç görmedim. Kalıcı çözümler getirilmeli, bu magandalardan trafik temizlenmeli.",1,0.0,0.1898,0.2718,0.183,0.1993,false negative,0.3007
+17780,"@USER hicbir sey bilmedigi seyler hakkinda bir seyler bildigini sadece mankafalar dusunur,",0,0.0,0.0114,0.1509,0.7414,0.799,false positive,0.29900002
+38465,@USER Güvenlik arkadaşın bu kadar ayrıntıyı nasıl biliyor.   Sağlık kontrolünden geçeceği saate kadar nasıl öğreniyor.   🤣🤣🤣Biraz az sallasaydın bari.,1,0.0,0.162,0.4875,0.2024,0.2022,false negative,0.2978
+26639,@USER Dıyer kanal lar akp nı yalan makınesı,1,0.0,0.8417,0.638,0.2243,0.2027,false negative,0.29729998
+12578,@USER Kocam yapmaz; polis işkence yapmaz; asker halkına silah sıkmaz; cemaatte kültlük bir durum olmaz. Tanıdık geldi mi bu düşünce tarzı? Bal gibi de cemaat içerisinde kültten hiçbir farkı olmayan davranışları sergileyen insanlar var. Dışardan bakan FG'e taptıklarını zannedebilir.,0,0.5,0.6897,0.546,0.7717,0.7949,false positive,0.2949
+34193,çocuk 6 yasinda cinsiyetci ilan edildi bu ülke kapali bir freak şov ya,1,0.0,0.688,0.567,0.191,0.2056,false negative,0.2944
+26174,@USER yaw valla bunları takip eden kitlenin Erdoğan ı takip eden kitleden bir farkı yok.,1,0.0,0.7781,0.6039,0.1897,0.2076,false negative,0.2924
+31879,"Eyy @USER 38 yaşında emekli olacak Eytli yok. Çokkkk kızmışın da bize boş işler, rüşvetçiler, köpük, türedi ve gündemimizde yok diyenlere de oy verecek kadar da kişiliksiz değiliz. İlk baştan söyledik EYT yanında olanla olacak nokta. #EmeklilikteYaşaTakılanlar @USER",1,0.0,0.3285,0.5214,0.3221,0.2082,false negative,0.29180002
+34377,Beyni yok fikri tebrikler yaşamayı nasil başarabilmiş hayret doğrusu,1,0.0,0.2377,0.4699,0.2367,0.2082,false negative,0.29180002
+34083,Ne çok sanatçımız ! varmış arkadaş.    Galiba hepsi 15 temmuz gecesi yurt dışında falandı. Türkiyede olmadıkları için vatanlarını savunmak için çıkmadılar dışarı gezide çıktıkları gibi... #herşeyçokgüzelolacak,1,0.0,0.7543,0.4331,0.1486,0.2085,false negative,0.2915
+11007,@USER @USER Şarap yapıyorsun kardeşim iyi güzelde başında türbanın var ..demezlermi şarap müslümana haram kılındı ..başka bir dalda eğitim alsaydın da..o türbanın hakkını versen daha iyi olmazmıydı,0,0.75,0.7314,0.4316,0.7587,0.7833,false positive,0.28329998
+18971,Arkadaşlar öncelikle şunu söyleyebilirim. Burçlar tamamen yalan. Amma illaki inanacaksaniz Suna inanın erkekler daha tehlikeli olur. Çünkü vicdan kadınlara atfedilen mükemmel birşeydir. Erkeklerde bu çok azında var. Keşke erkeklerde anaç olsaydilar.Hemcinslerimden tiksiniyorum.,1,0.5,0.4802,0.5387,0.2492,0.2172,false negative,0.28280002
+42864,"@USER Ya isfahanda içtiğim alkolün hesabı yoktu. Arap şeyhlerine JP arasında tercüme yaparken alkol akardı. Kime ne derken, siz hayattan mahrum kalın bize ne adamları bunlardır. (Not: okuldan takip edip kendi kendine şerlokluk yapanlara müjde! Geliyorum yüzyüze gelin!”",0,0.0,0.2932,0.5819,0.8119,0.7824,false positive,0.2824
+30118,bi bitmediniz ya. Ne zaman böyle diyen bir kız görsem istemsizce direk soğuyorum ondan,1,0.0,0.4895,0.6533,0.2639,0.2185,false negative,0.28149998
+36970,Sizin yapmacık ilişkilerinizi gördükçe yalnızlığımla gurur duyuyorm 😎Canım kendim🖤     Günaydınnnnnn 😇,1,0.5,0.1597,0.2579,0.2813,0.219,false negative,0.28100002
+39064,Aday olan yönetim için yer ayırdıklarını söylemişti şimdi neden kıvırıyor      #GündemAnkaragücü   @USER @USER @USER @USER,1,0.0,0.0678,0.4875,0.1577,0.2198,false negative,0.2802
+43725,"@USER @USER Bence olay o değil, dalga dalga büyüyen hdpkk lılara karşı evlatlarımızı verin diyen anaların isyanını ,gelen bir emirle bastırma gündem değiştirme algısıdır,ama korkunuz olacak ve bu millet hdpkk yı silecek 🇹🇷🇹🇷",1,0.875,0.9196,0.6631,0.2062,0.2201,false negative,0.2799
+37067,@USER O kedi bunu insan zannettide sevsin diye yanına geldi. ULAN HAYVAN OĞLU HAYVANLAR YAZIKLAR OLSUN SİZE ULAN BİDE KAHKAHA ATIP GÜLÜYORLAR. ❗,1,0.0,0.8941,0.7751,0.3001,0.2205,false negative,0.2795
+28388,@USER bir tane bile matematik sorusu cozmedim okul baslayinca ne bok yicem bilmiyorum,0,0.5,0.406,0.4856,0.7629,0.7793,false positive,0.27929997
+40382,"@USER Aynı torna tezgahından çıkan ürünlerde bile fark olabilir iken, bu barzo prodüksiyonların tümü aynı derecede kaba-seviyesiz ve egìtilemez...",1,0.0,0.446,0.2516,0.2879,0.2208,false negative,0.27920002
+38876,@USER Biraz yasiniza yakışan tarzda konuşun,1,0.0,0.4398,0.0968,0.2067,0.2237,false negative,0.2763
+26460,Benim beynim balik değil tamm mı?   Anlayabiliyorum unutabiliyorum .      Tarihin boktan dersleri hariç sjvwiwbxk,0,0.5,0.5231,0.3275,0.7685,0.7739,false positive,0.27389997
+28513,Seksten sonra çocuk olabilmesi için kadının da boşalması gerekseydi dünya nüfusu ne kadar olurdu bin kişi filan heralde,0,0.75,0.3612,0.4808,0.7835,0.7728,false positive,0.27280003
+11589,"@USER @USER @USER Tespitim hangisi yanlış!?   Neden mesele ile ilgili yorum yapmayıp,entel dantel takılmaya calışıyorsun!?   Eğer konu ile ilgili bir fikrin yoksa,yazmana gerek yoktu..",1,0.5,0.0781,0.2395,0.2082,0.2278,false negative,0.2722
+37070,@USER Ülkenin yarısı Apocu yarısı Selocu oldu sizin yüzünüzden asdafgshshshs,0,0.0,0.2525,0.8538,0.7643,0.7719,false positive,0.2719
+37055,@USER Şimdi söz sirasi devlet bahceli denilen cakma ülkücü ye geldi..Bakalim onun aciklamasi ne olacak....,1,0.5,0.8954,0.5837,0.273,0.2283,false negative,0.2717
+18739,@USER Bu ülkenin değerlerine yapılan her türlü saldırı hakaret ve eylem cezalandırılmalı. Dün ODTÜ de yapılan ahlaksızlık bugün Anıtkabir' de yapılan Ahlaksızlık arasında bir fark yok. Gereken cezalar en ağır perdeden verilmeli...,1,0.875,0.7413,0.4716,0.2009,0.2287,false negative,0.27130002
+35058,@USER @USER Türktekekom değil bunlar merak etme,1,0.0,0.6476,0.4744,0.2423,0.2292,false negative,0.2708
+24043,Kötülüğü yapan sizsiniz beni tükettiniz...,1,0.0,0.8188,0.4381,0.2811,0.2314,false negative,0.2686
+17631,#survivor2018 acun ve ekibinin işi yok hile hurda katıcak yok oylar yalan yok bu sahte adamın paraya veya ademe ihtiyacı mı var ki hile hurda katsın bende bunu anlamıyorum,0,0.0,0.4857,0.5049,0.7758,0.7684,false positive,0.2684
+16399,Chp yı hdp ve pkk ıle vurmaya calısanlar bu görüntüleri ne cabuk unuttular pardon f.montajdı bunlar özür dilerım,0,0.0,0.7341,0.6551,0.7774,0.7657,false positive,0.26569998
+28548,"@USER Kendini bilge ve belge ilan edip, nüfuzlu olduğunu zanneden bunu da her twitinde dile getiren bir zat. Pek kaideye almıyoruz.",1,0.0,0.2705,0.4848,0.2432,0.2343,false negative,0.26569998
+31208,"Daha bi kac gun once konusuyodun ,dolar 5.86 oldu yine? Vursana bi daha dussun su dolar. Demir yumruksunuz ya hani.    7den 5 e dustu diye sov yaptiniz ya..",1,0.0,0.8402,0.654,0.2251,0.2353,false negative,0.2647
+32321,@USER @USER He oldu başkan oy calarak benim sesim geliymiii şakirr,1,0.0,0.2193,0.2992,0.2523,0.236,false negative,0.264
+10702,@USER öyle batmışlar ki debeleniyorlar ve iyice batıp nefret etmeyenlerin nefret etmesini saglıyorlar. ben böyle programlardan memnunum :),0,0.0,0.9178,0.3771,0.7603,0.7636,false positive,0.2636
+34168,"Tayyooo işin zor oğlum, bu adam seni fııııssss edecek,aklın varsa taşı tarağı topla gitttttt.....",0,0.0,0.9408,0.6778,0.7359,0.7626,false positive,0.2626
+10955,@USER Müslüman dediğin dürüst olur. Dürüst mu yönetenler. Her iki sözden biri yalan. Türk dediğin adaletli olur adalet var mı sizde. Kendi fetoya her istediğini verdi ama bankaya para yatiranlar hapiste. Cumhurbaşkanı dediğin tarafsız olur  seninki kendi gibi olmayanı terörist iln edyr,0,0.0,0.9812,0.6958,0.7899,0.762,false positive,0.26200002
+23950,"@USER Üslubu hoş olmasada söylediği çoğu şey doğru. Dün onlar hüküm sürdü bugün de siz. Her şeye rağmen onlardan çok geridesiniz. Tek sermayeniz sayıca çok olmak. Düşünce yok, bilim yok, sanat yok...nereye kadar götürür ki bu romantik dindarlık.",0,0.5,0.0846,0.2739,0.7882,0.7614,false positive,0.26139998
+15181,"Bugün Dolar 4.62 den kapandı,yarın muhtemelen 4.90ları görücek,yıllarca hakaret edilen ecevitin suçu dış mihrağının olmamasımıydı",0,0.0,0.1301,0.5192,0.8236,0.7606,false positive,0.26059997
+28034,ya allah aşkına bari camiyi salın ya hacı bayramın önüne kocaman topuzuyla gelmeye utanmamış bi de üçgenini tutmuş yere bakarak fotoğraf çekilip hikaye atmış çok ilginç bi psikoloji,1,0.5,0.3369,0.5247,0.1702,0.24,false negative,0.26
+37580,@USER @USER Abi Fenerbahçe de olmasa bunlar tvlerde Çalışamaz çünkü Fenerbahçe den başka birşey bilmiyorlar,0,0.0,0.3444,0.5579,0.7269,0.7579,false positive,0.2579
+27823,CHP'de sular durulmuyor iyice bulaşık suyuna döndüler😊    CHP den istifa eden #MustafaSarıgül    Makam için CHP ye geçen    #MansurYavaş derken  iyice karıştı ortalık. Seçimden sonra Mansur Yavaşın' da istifa edileceği konuşuluyor..   CHP'den kazan kaynıyor!,1,0.0,0.812,0.7473,0.3044,0.2426,false negative,0.2574
+44390,Yorumları okuyun altı komple fetöcü övgü şöleni,0,0.0,0.4252,0.4804,0.6919,0.7564,false positive,0.2564
+25894,"Nezaketi eziklik, iyi niyeti kerizlik sanıyorlar. Herkes kalbi kadar.",1,0.0,0.5942,0.4612,0.2911,0.2441,false negative,0.2559
+42288,@USER İzci kampı diye gidip oraları yakıp sonra devlet yangınla bas edemiyor diye algı yapmak sana yakışır,0,0.0,0.1221,0.5795,0.7618,0.7546,false positive,0.2546
+21946,Güzellik salonlarının önünde kartla bekleyen kişiler dönerci önünde buyurun diye içeri sokmaya çalışanlardan beter,0,0.75,0.9255,0.4231,0.7441,0.7521,false positive,0.2521
+41514,"@USER @USER Ben tanıyorum onları! Abimin hayatını söndürdüler, ocağımıza incir ağacı diktiler. Annemle babamdan, kardeşlerinden ayırdılar abimi, en sonunda meczup edip hayatını kararttılar.",1,0.5,0.2379,0.3971,0.2397,0.249,false negative,0.251
+37690,@USER @USER ama yanlis yolda. cunku bu kizcagiz hrisyitan oldugu icin cehennemde yanacak. multecilere irkci hakaretler eden Muslumanlar ise cennete gidecek.,0,0.0,0.2698,0.4945,0.7838,0.749,false positive,0.24900001
+42784,"@USER @USER @USER Kime bağlamalıyım kadın cinayetlerini. Sen daha iyi bilirsin ki 20 yıl önce bunlar yaşanmıyordu. Sana dünyada ilk 5 te olduğumuz şeyleri söyleyeyim. Kadın cinayetleri, hayvana tecavüz, çoçuğa tecavüz, insan hakları ihlali. Bunların sorumlusu kim sence bu ülkeyi yönetenler değilmi",1,0.0,0.9172,0.7163,0.2583,0.2521,false negative,0.24790001
+14206,"@USER @USER @USER @USER Kalp derken? Bir oyuncuyu kiskancliktan linc etmeniz iftira atmaniz, ve hic Ama hic empati kuramayan siz, sizin kalbiniz var mi ki? O yere gore sigdiramadiginiz adama noldu, yine Alp’in golgesinde kaldi yine.",0,0.0,0.3856,0.5441,0.7501,0.7452,false positive,0.24519998
+25410,idda ediyorum bi kemalist ataturkçu insan mesela yaşamının on kusur yılının içine etmiş bi hükümeti destekleyen insanları onalra yeşil ışık yakınca böyle anasına hallenip babasının başını kesip sarap içmiş ve bin kişiyi öldürüp töbe etmiş gibi muamale görüyor. cubbelinin tabiri,0,0.5,0.9098,0.6553,0.843,0.7436,false positive,0.24360001
+31822,Şu hırsızlar yakalanıp hakkında soruşturma açılsa da bizde rahat rahat yks sınavına hazırlansak. Odaklanamıyoruz😂😁 Binali Başkan ❤️   #HırsızVar @USER  @USER,1,0.0,0.3463,0.4396,0.2726,0.2568,false negative,0.2432
+20228,@USER Kadınları anlayamıyorum diyen erkek lar ekini cıkarıp kadınınla ilgilen belki anlarsın,0,0.0,0.893,0.534,0.7327,0.7425,false positive,0.2425
+23142,"@USER Ömrünüz dönmekle geçiyor, yazık size.",1,0.5,0.3342,0.2118,0.3471,0.2582,false negative,0.24180001
+19967,"@USER @USER Dolar 7 ₺ olmazdı doğru olabilir ama elde bir devlet kalırmıydı o belirsiz. Şimdi merdivenler 5er 5er çıkılmaz. Sen önce genel başkan ol. Bazı çocuklar vardır, büyükler konuşurken bunlarda bir heves ile bir iki laf söyler. Bu da öyle sen hele bir sus git misketlerin ile oyna.",1,0.0,0.8263,0.619,0.2339,0.2585,false negative,0.24149999
+32527,Türk bayrağına tahammül edemeyenlere sen mazbata ve yetki verirsen ey YSK ey güzel devletim   Teröristler hainler bitmez bu ülkede,0,0.5,0.8103,0.646,0.7648,0.7398,false positive,0.23979998
+19603,@USER Bari bırak linci ben yiyim hayatımda ilk defa geldiğim bitliste kadın yolcuyu azarladı diye şehiriçi dolmuşçusu ile kavga ediyordum millet araya girdi utandım insanlığımdan,0,0.0,0.3209,0.3524,0.6505,0.7375,false positive,0.23750001
+26647,"#ADEM, BİR ELMA YEDİĞİ İÇİN CENNETTEN KOVULDU ANCAK BU GÜN KAN İÇEN İNSAN KESEN KİŞİLERİN CENNETİ UMUT ETTİKLERİNİ GÖRÜYORUZ.",0,0.5,0.1107,0.4051,0.8163,0.7372,false positive,0.23720002
+26829,Demek ki ülkeyi hep çeteler yönetmiş. Biz REİZ yönetiyor zannediyorduk.,1,0.0,0.4538,0.6073,0.294,0.2629,false negative,0.2371
+38652,ŞU DÜNYA DÜZ DİYENLER    Ş   İ   K   T   İ   R   G   İ   D   İ   N   LÜTFEN,1,0.0,0.0906,0.4976,0.2663,0.2631,false negative,0.2369
+17225,#güçkimde Güç yalnızca Allahtadir ama bu bastakiler ne yaptıysa ondadir sende biliyorsun kimde.@fatihportakal,0,0.0,0.4831,0.4763,0.6941,0.732,false positive,0.232
+43194,ya abi bugun biraz kafam gitti valla nasıl atlamışım bu adamlari kendime inanamiyorum.. slimaniyi atlayarak yaptık bir hata ama varisi allahyari atlamayacagıma soz veriyorum abi simdiden. trnin en iyi cihatcılpardon santraforları allahyar ve slimani,1,0.0,0.0528,0.3476,0.1985,0.2689,false negative,0.2311
+34929,Oy lazım mı oy? Ömrümde bunca lider gördüm ama lider olmayı beceremeyen bir CB görmedim!,1,0.0,0.7514,0.5626,0.3024,0.2707,false negative,0.22929999
+40090,"@USER Bu bileme değil sanırım, işi bilen pilot kalmayınca herif nerede nasıl uçacağını da bilmiyordur. Sadece uçuyor...",0,0.0,0.1881,0.5252,0.6842,0.7263,false positive,0.2263
+30451,@USER Pert olmuş kadınlara büyük para fazla yarı parasına bende dağ iyi ortam var yabancı bayanlar hemde 4-5 saate değmez  paylaştığınz resimlerde fake,1,0.0,0.6656,0.5741,0.2257,0.2745,false negative,0.22549999
+36702,@USER @USER sırf sınırlama için kamuoyu oluşturmak için lucescuyu satın aldılar. luce geldiğinden beri sınırlamayı konuşmaktan başka ne yaptı. rıdvan dilmen sınır karşıtıyken c. başkanının konuşmasından sonra iatiklal marşı aşığı oldu bir anda.,1,0.0,0.4865,0.601,0.3055,0.277,false negative,0.22299999
+28834,"İsmail Saymazın günlerdir tweet attığı bilgilerden anlıyoruz ki, her dönem dansözleri rant peşinde koşuyor",1,0.5,0.2359,0.4847,0.3027,0.2783,false negative,0.22170001
+35226,@USER Ramazaının ilk günü kul hakkı ile oruç açtınız yazıktır günahtır,1,0.0,0.3347,0.2982,0.453,0.2785,false negative,0.22150001
+16335,"@USER Tamam muhderem. Sen bize 1000000 bir milyon riyal adeşle biz orğanizazyon yabarız, sen yorulma. Kafan rahad olsun.",0,0.0,0.0903,0.4636,0.7758,0.72,false positive,0.22000003
+29872,@USER Adem diyor ki 2000 TL ben verdim başkan ben oldum Emre 1000 TL verecek dedi 😂 Çay Bahçesi mafyası sizi 😂😂😂,0,0.0,0.2045,0.471,0.7053,0.7184,false positive,0.2184
+10470,Şeref ekmek bulamazken şerefsiz bulur,0,0.5,0.9836,0.904,0.623,0.716,false positive,0.21600002
+24420,"Bu şahsın da, bu şahsın “kadına şiddet” konusunda bilirkişi gibi ekrana çıkıp bu konuşmaları yapabilmesinde emeği geçen herkesin de ABV.",1,0.0,0.7847,0.5103,0.2758,0.287,false negative,0.213
+37257,@USER İstanbul bizim. Yakında Türkiye'nin de bizim olacağı gibi. Faşizmin kafasını eze eze geliyoruz !,0,0.0,0.5154,0.4487,0.805,0.7125,false positive,0.21249998
+36651,@USER @USER @USER BU FOTOĞRAFA İSMAİLBEY YAKIŞMADI ELİNE VERİLEN SORULARI SORACAK DAHA ÖNCE BİNALİ BEY OĞLU ERKAN'A SORAMADIĞI GİBİ ÇALAR SAATTE ÖVGÜLERİ OKUYOR SİZE VE FATİH BEYE YALAKALIK YAPIYOR,1,0.5,0.9714,0.6505,0.2898,0.2914,false negative,0.20860001
+27370,kriter maiconsa vah bizim halimize kuyu köpek de maicondan iyi stoper,1,0.5,0.1803,0.524,0.309,0.2967,false negative,0.2033
+18874,@USER @USER İspanya Girona takımına gidiyor. Bedelli yapar yine. Bunlar parasını öder askerlik yapmazlar.,1,0.0,0.1327,0.5595,0.3237,0.3011,false negative,0.19890001
+14636,"Bizim iktidar ve muhalefete ne güzel malzeme çıktı!   #Filistin       Akp yıllardır kullandı,kullanacak.      Siz de kullanın valla,millet seviyor.",1,0.0,0.3708,0.6051,0.2975,0.3029,false negative,0.19710001
+44445,Didem hanım sizin bu gazeteciliğin izi kınıyorum bunlar neden su durmuyor sunuz Türkiye'nin tanımını ekonomisini neden bahsetmiyor sunuz tarafı davranıyorsunuz#TürkiyeninNabzı,0,0.0,0.8428,0.6559,0.7342,0.6958,false positive,0.1958
+16803,"Ben lâfı eğip bükmem, direk söylerim. Uzun'a uzun, öküz'e öküz, yavşağa yavşak, hırsız'a da hırsız derim. Üstüne alınan alınsın, çokta fifi.",1,0.9688,0.9877,0.4648,0.2673,0.3042,false negative,0.1958
+11755,Bu ülke liberallere ve pkkye iyi sabretti.,1,0.0,0.5863,0.3961,0.4941,0.3059,false negative,0.19409999
+20088,@USER Senin gibi memleketinin değerini bilmeyenler kanka onlar 😁,1,0.0,0.3012,0.5641,0.3849,0.3077,false negative,0.19229999
+26818,An itibari ile müsaitim sevişmek isteyen beyler mesajlarınızı bekliyorum,1,0.0,0.153,0.1243,0.344,0.3081,false negative,0.19190001
+40647,@USER Erdoğan sayesinde alıyorlar ya o yüzden beğenmezler Allah’a şükretmezler,1,0.0,0.5328,0.5671,0.4055,0.3125,false negative,0.1875
+39970,@USER @USER @USER Besmeleden neden bu kadar rahatsız oluyorsunuz anlamadım? Müslüman kişi ne yapacak? Durun ben islâmdan çıkayım bir şeyler diyeyim sonra geri dönerim mi diyecek? Veya sahtekârlık yapıp şirin görünmek için istavroz çıkartıp bir şeylermi diyecek? Siz söyleyin madem ne yapsın?,0,0.5,0.8561,0.6164,0.7458,0.6867,false positive,0.18669999
+33841,@USER Muhalefetin yalanları ile Rte nin gerçekleri sarpışıyor....   Rte ye bu kadar saldırı olması ?,1,0.5,0.7629,0.5934,0.2629,0.3164,false negative,0.18360001
+23207,"Liyakat, anti demokratik bir uygulama.   Her şeyin demokrasi ile olacağını zanneden liberaller bin bir takla atıyor yok öyle yok böyle diye",1,0.0,0.5278,0.4943,0.2817,0.3167,false negative,0.18329999
+15141,"Kızın boyu 1,50 tepemin tasını attırma diyor. Bi sakin ol sen zaten tasla aynı boydasın .😂",1,0.0,0.4482,0.3967,0.2862,0.318,false negative,0.18200001
+42942,Kan kokusu komünistlerde hastalık galiba.,1,0.0,0.4865,0.3402,0.2453,0.3194,false negative,0.18059999
+25619,"Erzurum’a evinde 2-0’dan 2-2 yaptırıyon.   Değil Ersun Yanal, Guardiola gelse ifla olmaz bunlar 😂",0,0.0,0.0335,0.4875,0.7194,0.6782,false positive,0.1782
+28004,"@USER @USER Akp,nin hem maarif hem savunma bakanı küçük İsmet diyorki akp,ye oy verin kıyamet günü berat'niz olur diyor.",1,0.0,0.4508,0.6504,0.3474,0.3233,false negative,0.1767
+17263,Yahu Kılıçdaroğlu seçimin kaybedenin Akp olduğunu 7 puan düşen oya bağlarken kendi başarısızlığının da aynı neden olduğunu unutuyorsun! Sen böyle devam ettikçe kendi partinle diğer parti gibi aşağı gelmeye devam eder. Mhp yükselişe geçebilir.,0,0.0,0.8304,0.6627,0.6331,0.6754,false positive,0.17540002
+21956,@USER Cık cık sayın Ceo'm olmuyor böyle. Dolar da ne diye artıyorsa. Ayıp. Biz fakir fanlara da yazık.,0,0.0,0.9351,0.6126,0.6988,0.6743,false positive,0.17430001
+31800,#HırsızVar diyenlere dikkat!!   Millet ittifakının hakkıyla kazanmış olduğu seçim sonuçlarını  sindiremedikleri için sahte belge ve söylemlerle yeni bir algı dalgası oluşturmaya çalışıyorlar..   Tebrik Etmek Erdemliktir   @USER   @USER    @USER,0,0.0,0.705,0.4757,0.7676,0.6713,false positive,0.1713
+25883,@USER Eşcinselliğin hastalık sayıldığı bilgisizliğin ön planda olduğu toplumdan ne bekliyorsun ki,1,0.0,0.3614,0.3816,0.4004,0.3293,false negative,0.17070001
+32874,Size belediye muhalifliği de biz öğreteceğiz. Biz sizin gibi ülkemizi AB ye şikayet etmeden kendi içimizde eleştireceğiz. Bilin istedim  #MazbataGeldi,0,0.0,0.9216,0.646,0.6859,0.6693,false positive,0.16930002
+39131,@USER @USER Bissürü Bissürü kalp sana ve ben böyle kedicikleri ahh var ya Adnan Oktar ın kedicikleri bizim kedicikleri yanında hiç kalır aha ha ha bunu kullanıcam   #MGMAVOTE #BTS @USER,0,0.0,0.2399,0.4472,0.7178,0.6675,false positive,0.16750002
+39438,@USER @USER @USER Kotunun iyisi. Yetisme sartlari cok Amerikan... fazla NATO sal... feto de Kivrikoglunun da payi vardir... en milli gkb lerden biri olmasina ragmen. Gecen gun ergin saygun un soyledigi laflara sasirdim. En son tuncer kilinc boyle net ve acik konusmustu.Nadirdir bir or un acik sozu,0,0.875,0.3948,0.4236,0.7022,0.666,false positive,0.16600001
+38341,@USER öyle deme seni peygamber ilan ederler...sonra tapınacak kadın olursun..,0,0.0,0.684,0.4499,0.711,0.6652,false positive,0.1652
+13674,Biraz daha entellektüel twitti okursam çok entellüktel bi şekilde kusucam. YETER DAAA 😤,0,0.0,0.0555,0.2993,0.6649,0.6633,false positive,0.16329998
+18224,@USER En boş insanlar kendilerine cok önem verirlermukemmeller guvensizdirkusurlu insanlar kustahtır iyi adamsa urkektir,0,0.0,0.2629,0.3362,0.6023,0.6629,false positive,0.16289997
+39635,"Rakibin de ise Sabah uyan gündem de Falcao'lar, Matuidi ler.. Biz de Deniz Türünç ler Umut Meraş lar, eeee vizyon nerde.. Hadi vizyonun ne olduğunu anlamadikta vizyonunuzun koskoca Fenerbahçeyi komik durumlara düşürmek olduğunuz net ortaya çıktı.",0,0.0,0.6269,0.5403,0.6374,0.6624,false positive,0.1624
+24602,Ay şarzla alakalı bi tweet gördüm lan şarzım 8 ne bok yicem,0,0.75,0.9859,0.6381,0.6816,0.6621,false positive,0.16210002
+38244,@USER hırsız fiko 2 sene daha hareket bekleme operasyon çocuğu işini yaptı çekildi,1,0.0,0.6561,0.6785,0.3319,0.3379,false negative,0.16209999
+21748,@USER @USER Burada atıp tutacağına o kötü koşullarda 3 kuruşa sen çalışsana yiyorsa.,1,0.0,0.1339,0.5039,0.3177,0.3396,false negative,0.1604
+13049,@USER Tabi tabi oldu amima koyim gecç yarin başla tffde ek işe ne lan bu olmasi lazim falan bunun kurallari var maddeleri  var salak salak konuşmayin cezasi neyse o,1,0.9375,0.9923,0.5316,0.4081,0.3418,false negative,0.1582
+26808,"Yumuşatmayın ! Gülümsemeyin ! Bu bildiğiniz, İndirilen dinden uydurulan dine geçişin meyvesi olan din tüccarlığıdır.",0,0.0,0.3597,0.5394,0.7373,0.6569,false positive,0.15689999
+35875,@USER @USER @USER @USER Sen niye teşekkür ediyorsun :) senlik ne durum var. Vergiden az çok anlayanlar tarafından dikkate değer görülmeyen sıradan bir öğretim görevlisisin.,1,0.0,0.0797,0.4581,0.3195,0.3432,false negative,0.1568
+35733,"@USER @USER Geçmiş olsun,umarım onlarda belalarını bulurlar.",1,0.0,0.3019,0.1516,0.3829,0.3439,false negative,0.1561
+24283,"@USER Bunlar varya, gece uykularında bile Kılıçdaroğlu'yu sayıklıyorlardır.",0,0.0,0.5801,0.7066,0.742,0.6557,false positive,0.15570003
+32909,"#ölümüneerdoğan  bu tagı açan hakkında savcılar harekete gecmeli, bölücülük yapıyor. Cumhur başkanı hepimizin Cumhurbaşkanıdır. Ölürsek ölümüne Türkiye için ölürüz, makam için değil.",0,0.0,0.6926,0.6295,0.6932,0.6536,false positive,0.15359998
+13338,"@USER Ensonhaber haberci değil, taraftarsınız...      Ensonhaber değil AMPULHABER...",1,0.0,0.529,0.3525,0.3097,0.3497,false negative,0.1503
+44164,@USER @USER Öğrenmeden ne konuşuyorsun o zaman   Yoksa bu sende sürekli olan birşey mi?   Gazeteciliğin getirdiği bir sorun galiba   YALAN   YALAN   YALAN,1,0.0,0.7964,0.5528,0.4217,0.3497,false negative,0.1503
+13551,"""Ne gençlik çağının hovardalıkları    Ne yazın kalpteki kıpırdanışı    Şu sendeki saltanatı kaldıran olmadı."" OHA BU DA SİZ?????",0,0.0,0.4365,0.5276,0.7297,0.6495,false positive,0.14950001
+29659,"@USER Ağzında yara var, boğazında yara var, dış etlerin hassas, elini ısırıp kanatıyorsun.. Yani o kan kesin ağzında var",0,0.75,0.6126,0.4215,0.6406,0.6466,false positive,0.14660001
+15114,"california nın üstündeki çocuk sağa sola arkaya bakmaktan yarış yapmadı beklediği birimi vardı ? Bizi kanser etti ak , zorda olsa aldık yarışı 2. ayak geçtikmi urfaya 👌",1,0.0,0.0347,0.6496,0.3758,0.3556,false negative,0.1444
+37305,Sivas merkez yaşım 30 seksi çok seviyorum ve bir bayanın sexten mutlu olmasını daha çok istiyorum bir ilişkim en az bir buçuk saat sürüyor Yeter ki amacınız sadece seks olsun çok uzakta değilim sivas merkez deyim gerçekten mutsuz bayanları bekliyorum her şekilde sonuna kadar gü,1,0.5,0.4418,0.3182,0.4046,0.3569,false negative,0.1431
+27959,@USER Ali koc oructa o susu icmeyecekti. Mehmet goktaşı arayıp onun nezdinde tum muslumanlardan ozur dikeyecek.,1,0.0,0.6777,0.4671,0.3395,0.3574,false negative,0.1426
+20453,@USER Ölünce kefeninde siyah olur senin,0,0.0,0.6183,0.4712,0.6208,0.6413,false positive,0.14130002
+31669,Yarın bayrammış gibi seçimi bekleyen küçük bir çocuk gibiyim sanki.    Rabbim bize vatan hainleriyle iş tutanlar karşında yeni bir zaferi daha tatdırmayı nasip et.   #Memleketişigönülişi,1,0.5,0.2885,0.5503,0.3437,0.3602,false negative,0.13980001
+45642,@USER Dış mihrakların işidir. Kapak lobisi iş başında.,0,0.5,0.2828,0.2318,0.6007,0.6386,false positive,0.13859999
+41236,@USER Neyse ki psikopatız ölene kadar #şükürmoment,0,0.0,0.2835,0.2714,0.6396,0.6327,false positive,0.13270003
+30432,bu aramuza taktular vallahi bunlar maymundan gelmişlerdir.,0,0.0,0.7287,0.8666,0.729,0.6314,false positive,0.13139999
+14294,Tamam mı?? T A M AM...,0,0.0,0.225,0.4873,0.7585,0.6302,false positive,0.13020003
+10663,"@USER @USER Var efendim,Doğar doğmaz emekli yapacagim sizi bir Altin kafeste yaşatacagim sizi ama şimdiden diyeyim gikiniz cikarsa Kasaba verecem sizi.",1,0.0,0.2118,0.4563,0.3922,0.3743,false negative,0.1257
+25104,@USER VAY ÇOK KOMİKSİN ÇOK GÜLDÜM HAHAHAHHAAH,1,0.0,0.5749,0.2961,0.2199,0.3744,false negative,0.12560001
+11216,@USER Bu Trump Kennedy gibi suikastle göçerse şaşmam. Pentagon la tamamen zıt konuşuyor,0,0.0,0.5805,0.6177,0.7187,0.6245,false positive,0.12449998
+25882,"@USER #Vanuatu 6 richter:   #OneMunite #VanMinit   İzzettin Kassam Tugaylarını, İsmi Cihadı, El-Aksa Şehidleri Tugaylarını, #pkk gibi olduğunu İMA ETTİ,.",1,0.0,0.7534,0.7808,0.4442,0.3816,false negative,0.11840001
+17071,A Haber şu an Tayyip’in Yenikapı mitinginin tekrarını veriyor. İNANILMAZ.,1,0.5,0.205,0.2497,0.3338,0.3823,false negative,0.11770001
+39992,@USER @USER Hoooop ağır olun yusuf'u giresun lobisine yedirmeyiz memo yakistiramadim,0,0.0,0.2488,0.457,0.61,0.6174,false positive,0.11739999
+20133,size almanca küfrederim sinir etmeyin beni,1,0.0,0.6941,0.2261,0.3579,0.3883,false negative,0.1117
+21599,"@USER Tam olarak katılmıyorum, yanlız faşist tarafı benziyor. Avrupa sağı ülkesinde yabancı istemez. Türkiye solu ülkesinde yabancı müdahalesi ister vatandaşı olduğu toplumu istemez.",1,0.5,0.6291,0.4265,0.3774,0.3886,false negative,0.11140001
+43459,ay kız ağzından çıkanlara dikkat et,0,0.0,0.3605,0.642,0.5901,0.6065,false positive,0.10650003
+43066,@USER SelBur ögkkk olmuyor bilee kusucam yaa şu Buraktan,1,0.0,0.2531,0.3492,0.4048,0.394,false negative,0.106000006
+25011,"@USER ""Diyanet İşleri Başkanı: Kur-an'ın girmediği kalp, karanlık bir kalptir"" bu nasıl bir açıklama?hristiyan ve musevi vatandaşların vergisi ile de çalışan bir kurumun başı olarak açıklamanız tam bir gaflet",1,0.75,0.7115,0.5032,0.4588,0.3988,false negative,0.101200014
+27886,ATLATAMAM ARKADAŞLAR BEN AZRA’nın GURURLU BAKIŞLARINI ATLATAMAM #herşeyyeniden #avlu,0,0.5,0.0205,0.2552,0.7647,0.6,false positive,0.100000024
+24844,@USER 5-6 sene oldu muhtemelen bu ucube yapılalı,1,0.0,0.5048,0.2832,0.388,0.402,false negative,0.09799999
+14226,@USER Sayın ince kk sizi chp genel baskanlıgına 1 kere layık görmezken biz neden cumhurbaşkanlıgına layık görelım?  Bu soruya cvp dan kacamazsınız,0,0.0,0.4696,0.5462,0.8246,0.5977,false positive,0.0977
+10655,"Pijama ile ayar verme günlerinin geri gelmeyeceğini anlamış olacak ki, ne var ne yok satmış...",0,0.0,0.128,0.2896,0.6763,0.5934,false positive,0.0934
+12966,#AbidikGubidikİttifakı FETÖ chdpkk ittifakı gerçekleşti. Artık SP ne halt eder düşünsün karar versin...,1,0.75,0.9594,0.7005,0.5787,0.4071,false negative,0.09290001
+33429,"@USER @USER @USER Hayvanlar mal, eğlence aracı değildir. Hayvan sömürüsünden para kazanan ahlaksız sirklere yasak getirmeniz gerekirken, sizler onları mı davet ediyor sunuz? #Ayıp #hayvanözgürlüğü #hayvanlaraadalet #hayvanhakları",0,0.9375,0.9749,0.677,0.6536,0.5924,false positive,0.092400014
+40755,"@USER Her yanda inilti duymuyor kimse,   Bayramı gelmiş gülmüyor kimse,   Şu suçsuz masumların suçları neyse   Tez zamanda kurtar Allah’ım...   (VATANSEVER KHK LI TERÖRİST)",0,0.0,0.3048,0.6322,0.5573,0.5885,false positive,0.08850002
+10695,"@USER Bir avuç yemlik olay değil. Bugün bir avuç yem atam adamdan yarın 5 avuç sonra katları isteniyor. Eğer terk etse daha fena, madem terk edecektin niye ümit verdin diyor.   Eğer o kuş avuç avuç beslenir de devamı gelmezse aç bir kurt sürüsüne dönüyor haberin olsun",0,0.0,0.1594,0.6788,0.5572,0.5856,false positive,0.08560002
+41193,Yaptığınız hatayla değil yaptıktan sonraki duruşunuzla soğutuyosunuz insanları kendinizden,0,0.0,0.4358,0.4499,0.5602,0.5828,false positive,0.08279997
+42852,@USER Maşallah maşallah! Gidin reyisiniz beslesin sizi,1,0.0,0.7732,0.7554,0.4707,0.4216,false negative,0.078399986
+43122,Türkçe pop gibisin sesin güzel konuşmaların boş güzellik 👌🏻,1,0.0,0.4487,0.3835,0.3839,0.4269,false negative,0.0731
+20366,@USER Ya dövmeye karşıyım ben. Dövülerek terbiye edilmez çocuk. Ama o yaştan sonra bu sorumsuzlukları ile nasıl terbiye edecekler merak konusu.,0,0.0,0.4672,0.4686,0.6405,0.5729,false positive,0.0729
+35323,@USER Biraz cahilce üstün körü bi tespit olmuş bu,1,0.0,0.3483,0.3807,0.4574,0.4274,false negative,0.07260001
+35498,@USER @USER Su  olsa da taharet almaz onlar,1,0.0,0.1667,0.3871,0.3458,0.4275,false negative,0.07249999
+42244,İst avrupa yakası 24 yaşında ERKEKSİ PASİFİM..   alibeyköy kağıthane civarı yeri veya aracı olan aktiflerle görüsmek istiyorum araçta takılırım #aktif #pasif #istanbulgay #kağıthane #alibeyköy #pasifim #istanbulpasif >< @USER,1,0.0,0.1329,0.4875,0.4118,0.4292,false negative,0.07080001
+41327,@USER Hocam kuşları ağlatma. Geçen sene Fenevin Galatasaray maçı öncesi gösterilmeyen net kartlarını unutmuşlar. Kuş beyni cabuk unutur!,1,0.5,0.2468,0.1924,0.3416,0.4296,false negative,0.0704
+35309,@USER @USER Bi denerler de nasıl olur bilemiyorum herif doğru yürüyemiyor konuşamıyor bile,0,0.0,0.34,0.5765,0.5882,0.5704,false positive,0.0704
+19887,"@USER Daha ne kadar gerçekçi olabiliriz 🤣🤣🤣   İyi indirin pantolonu müstemleke vatandaşı olmayı bekleyin, hayır sizce ne yapılmalı ?",1,0.5,0.1092,0.4655,0.3648,0.4317,false negative,0.06830001
+12317,@USER böyle diye diye de kirlettiniz bu cümleyi lan,0,0.0,0.7763,0.7088,0.5989,0.5681,false positive,0.068099976
+36112,@USER @USER Adamin dibi. Bu varya baska birsey. 10 LARCA YILDIR BEKLEDIGIMIZ LIDER GELIYOR:,0,0.0,0.2692,0.4445,0.5315,0.5665,false positive,0.06650001
+17855,"D&R'a gittik çok istediğim bir kitap vardı 30 tl, okuyup bitirdim çıktım. Bu beleşçilikle iyi yol kat edilir ya :d",0,0.0,0.2359,0.3221,0.6687,0.5658,false positive,0.06580001
+44772,@USER @USER @USER İnşallah bir kaza geçirmezsiniz o zaman uygun dönere hangi partili diye sormak zorunda kalmazsınız sağlıklıyken hayat size güzel ileride bu kafayı bulamayacaksınız hayat kimseye kıyak geçmiyor gençler şimdi çalın oynayın zaman çok çabuk geçecek şimdiye kadar olduğu gibi 🖐🖐🖐,0,0.75,0.1424,0.3574,0.5604,0.5656,false positive,0.06559998
+35239,@USER Hayırdır Fatih Portakal daha düne kadar ekranlara Nutukla çıkıyordun ? Atatürkçüsün diye izliyordu bu millet seni . İki isim arasında ki farkın en kısa özeti Tunceli = Atatürk Dersim = Seyit Rıza,1,0.0,0.4627,0.4875,0.4727,0.437,false negative,0.06299999
+19682,herkes ben yakup'um der ama onlara adıyla seslenen birileri mutlaka vardır. yalnızlık 21. yüzyılın popüler kültürü. yalnız değilsin it dön de bir yanındakilere bak.,1,0.0,0.5406,0.448,0.4254,0.4374,false negative,0.06259999
+17540,ACİL ACİL!!!!   Kayseride suan hemen gelebilicek 16 ve 19 dahil gay pasif arıyorum gencler druma göre ap olur beklıyorum,1,0.5,0.2133,0.2518,0.4946,0.4384,false negative,0.0616
+23521,@USER Sizi darbeci yapmak kullanmak ićin o okula soruları verip gönderenleri şikayet edin.,0,0.0,0.3117,0.6927,0.5786,0.5603,false positive,0.060299993
+32810,Arkadaşlar bigün  sevgilim olurda buralarda sevgilim var sevgilime yan gözle  bakanın falan felon dersem sevgilim benim tapulu malım falan dersem profilin sol üst tarafında küreğim var onla ağzıma vurun tamam mı. Olmadı toplanın gelin dövün.bu ne itici bir lisandır,0,0.5,0.6555,0.3901,0.5973,0.5585,false positive,0.058499992
+45627,Düşünsene hikayen elinden alınıyor bunu hazmedebiliyorsun sözleşm şartları gereği falan diye. Ama hikayen @USER diye birine veriliyor. Resmen bel altı vurmaktır bu,0,0.5,0.1297,0.4008,0.6292,0.5585,false positive,0.058499992
+28912,"@USER Reklam, dusuk seviye zeka icerdiginden ve sizin kullandiginiz tabir (orantisiz zeka) geziden buyana bayatladigindan dolayi katiliyorum size...",1,0.0,0.7589,0.467,0.4532,0.4415,false negative,0.058499992
+30137,"Ne söyleyeyim bilemiyorum sizi futbol oynatan ve bu ligde tutan federasyonda tüm kabahat, tüm dünyaya  bir kez daha bu nasıl olur dedirttiriyoruz.",1,0.0,0.519,0.5124,0.4637,0.4423,false negative,0.05770001
+36200,"Acun sürekli tisörtle takilan,isinin ehli birisi,Dansla falan ne isi olur belliki Mesut‘un FENERBAHÇE‘ye Transferi kovaliyo😂üstüne birde tebrik ayagina VATAN Hasreti msj paylastiki Hic Acunluk hareketler degil bunlar",0,0.0,0.3916,0.5912,0.5349,0.5542,false positive,0.054199994
+43250,"@USER @USER Mudur Gs taraftari holigan yorumculari seviyor, koru korune savunsun istiyor, adalet onlar icin esitsizlik demek, kayirilmak normallesmis, sen adaletli ve esit olmaya yaklastikca kendi tututgn takm taraftari tarafindan elestirilmeye devam edeceksin.",0,0.0,0.5215,0.6817,0.5129,0.5532,false positive,0.053200006
+14165,"Dolara gücü yetmeyenler Muharrem İnce’ye, “Projesi ne.” Demez mi, gül, gül, gül...",1,0.0,0.2671,0.672,0.5013,0.4499,false negative,0.0501
+14718,Hayatımda ilk defa bir sınav için sabaha kadar ders çalıştım artık tüm bunlara rağmen veremezsem bu kendini bilmez eşyacının ahiret sorumluluğuna dahil olacaktır,1,0.0,0.0357,0.3143,0.6295,0.4512,false negative,0.04879999
+30187,Günaydın evde yalnızlık yine azgınlık seks istiyorum,1,0.0,0.1001,0.0676,0.485,0.4524,false negative,0.0476
+21337,@USER Ben Geçireyim de Millet ne Yaparsa Yapsın      O inekleri getirenler ne kadar para yedi arada belli değil,1,0.0,0.4762,0.6053,0.4089,0.4524,false negative,0.0476
+26819,"@USER Kendi yönettiği kulüpte evrakta sahtecilik yapmış ve bu yüzden men cezası almış, kulübünü milyonlarca lira zarara uğratmış, buna rağmen siyasiler yüzünden başına geldiği ülke futbolunu aşağıya doğru ivmelendiren bir adama, kulüp yöneticilerini şikayet etmek! Mantık.",1,0.0,0.894,0.6225,0.3801,0.4527,false negative,0.04730001
+24116,GÖREMİYORUM ORUSPU ÇOCUĞU KELEBEĞİ GÖREMİYORUM BİN KERE DENEDİM KAFAYI YİCEM,1,0.5,0.499,0.7145,0.4648,0.456,false negative,0.044
+22130,Üzücü olmaktan öte.paranız yoksa İnsan gibi yaşamıyorsunuz bu baba nın evladı bu saat ten sonra ne okuyacak acaba .,0,0.0,0.6886,0.5659,0.5963,0.5432,false positive,0.043200016
+10840,@USER @USER Birde Erdoğan sanki bunu takıyor da.   Sorsan ismini bile bilmezdir,0,0.0,0.5849,0.5974,0.5556,0.5429,false positive,0.042900026
+26546,Teşkilata ihanet eden hiç kimse benim kardeşim değildir ve kanı pistir.   Laf meclisten içeridir.,1,0.0,0.1651,0.4646,0.3564,0.459,false negative,0.04100001
+33400,İstenilen kişi şimdi fosur fosur uyuyordur,0,0.0,0.2857,0.1417,0.6471,0.5355,false positive,0.03549999
+24636,@USER Yok canım kiskanmayan erkek domuzdur,1,0.0,0.4998,0.0873,0.3401,0.4665,false negative,0.033499986
+35455,CHP her seçimde “dünyayı kurtaracak lider” diyerek birini pazarlıyor. Sonra da lider diye pazarladıkları seçimi kaybedince adını bile anmıyor! En son Muharrem İnce’yi de böyle pazarladılar. Sonra kapı önüne koydular.,0,0.5,0.5352,0.5775,0.519,0.5332,false positive,0.033200026
+17109,Tatlım Evime Davetlimsiniz Sınırsız Bayan Görüşmelerinde Birlikteyiz . 22 yaşında Tatlı Partnerinizim.   Orjinal Fotoğraflarım Profilde Mevcut..   Detaylar için Arayabilirsiniz ...   0808 825 57 75   0609 169 32 02   #diyarbakırescort #adanaescort #malatyaescort #kayseriescort #sivasescort,0,0.5,0.7805,0.2914,0.537,0.5307,false positive,0.030700028
+41845,Sahte haber yapıyorlar hemde yüzbinlerin hatta milyonların takip ettiği hesaplarında sonra pardon! Ne güzel İstanbul be! Salla gitsin yalandan kim ölmüş? Kim yaparsa yapsın eğer birisi yanlış bilgiyi ortaya atıyorsa ya cahildir ya da art niyetlidir ki ikisinden de uzak durun.,0,0.5,0.9131,0.6208,0.4618,0.5307,false positive,0.030700028
+38159,@USER @USER Erboya söyle joker suratlı dedik diye insan mı engellenir avrupalı gözüküp çarşı holiganlığı yapmasın joker en sevdiğim karakter   Hayırlı olsun yakışır,1,0.5,0.2554,0.4924,0.474,0.471,false negative,0.029000014
+35451,@USER @USER Amca oruçlu olduğuma şükret yoksa burda şerefin diye bisey kalmazdı,1,0.0,0.3685,0.4279,0.4372,0.4717,false negative,0.028299987
+10243,@USER @USER çıkıyor ya oha gerçekten mi falan oluyorum @USER #istanbulescort #escortistanbul #escortbayan #istanbuleskort,0,0.5,0.4979,0.4549,0.5368,0.5261,false positive,0.02609998
+39877,24 yaş aktifim erkeksi pasifler mesaj atsın    @USER #gayarabul,0,0.0,0.941,0.3159,0.4965,0.5212,false positive,0.021200001
+10412,@USER Büyük palavra. Nice sanatçılar sporcular yazarlar büyük başarılar elde etti ve çok da seviliyorlar. İnsanlarla geçinemeyip onların fikirlerine saygı duymayanların düşman kazanmalarını başarı olarak görmesi aptalca,0,0.5,0.7522,0.4279,0.6077,0.5196,false positive,0.019599974
+17324,@USER Bu nasıl bir guzellik bu nasıl bir sexsilik,0,0.0,0.4314,0.4793,0.489,0.5179,false positive,0.01789999
+39510,Yokmu sizin kapatma düğmeniz falan çok sıkıldım sizden.,1,0.5,0.4385,0.4553,0.4563,0.4827,false negative,0.01730001
+23212,...KEŞKE HER KÜRT BÖYLE MEDENİ KÜLTÜRLÜ OLSA HERYERDE HER ORTAMDA...TÜRKLER İÇİNDE GEÇERLİ!!!,0,0.0,0.235,0.4876,0.4829,0.5172,false positive,0.017199993
+40947,"Ben guzel yaniyorum ya koruyucuya gerek yok diye malak gibi gunes altina yattigimdan pancara dönmüsüm, acidan konusamiyorum whatsapp only",0,0.75,0.588,0.3797,0.6301,0.5144,false positive,0.014400005
+41697,"Adamlar memleketi nerdeyse komple yurtdışına sattı ama iş Twittera gelince ""Yerli sosyal medya"" kuracaklarmış. Bu tam da kuyruklu yalan işte, asıl mesele twitterdaki özgürlük ortamı.. bir şekilde burayı kapatmaları lazım  Melih Şendil",0,0.0,0.7763,0.5729,0.5058,0.5122,false positive,0.012199998
+24253,@USER sana cirkin demedim fotonu ceken birine tesekkur etmek yerine arkasindan sallaman itici geldi thats alllll bana da salliyorlar annecim bosver adriana limaya da cirkin diyen var burasi boyle bi ulke ..!!!,0,0.5,0.447,0.6152,0.6228,0.5109,false positive,0.010900021
+14376,soylemessem icimde kalicak benim eski bolge mudurum tam bir yavsakti ne bilim boyle tuhaf bi serefsizdi. insallah bu tweete bir yerlerde denk gelir,1,0.75,0.8347,0.4308,0.5606,0.4909,false negative,0.00909999
+37233,bu havada vantilatör veya klimasız yatan kesin cin dir,0,0.0,0.1467,0.4875,0.5363,0.5019,false positive,0.0019000173
