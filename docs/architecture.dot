@@ -10,7 +10,7 @@ digraph G {
     q    [label="BERTurk fine-tuned\nDYNAMIC INT8  [C+D]\n(Linear=INT8, emb.=FP32)\nDEFAULT MODEL", fillcolor="#c9ecd0", penwidth=2];
     post [label="P(OFF) (softmax / lexicon score)\nthreshold 0.5\nlabel + confidence", fillcolor="#f0f0f0"];
     mask [label="masking  [B]\nlexicon + edit distance\n→ s***** / hidden", fillcolor="#fff4d6"];
-    nrm  [label="normalize()  [B]\nlower-case TR, leetspeak,\nrepeats, s.i.k → sik,\nç→c ş→s …", fillcolor="#fff4d6"];
+    nrm  [label="normalize()  [B]\nlower-case TR, leetspeak,\nrepeats, ç.o.k → çok,\nç→c ş→s …", fillcolor="#fff4d6"];
     lex  [label="Lexicon matcher  [B]\nLevenshtein ≤ 1\n(rule baseline)", fillcolor="#fff4d6"];
     tfidf[label="tf-idf (word+char)\n+ Logistic Regression [B]\nFP64", fillcolor="#fff4d6"];
     ffn  [label="own word2vec 100d [B]\nmean+max pool →\nFFN 200-128-2 [A]  FP32", fillcolor="#fde7e7"];

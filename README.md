@@ -14,7 +14,7 @@ Gradio chat application.
 | Quantized Transformer | Post-training **dynamic INT8** quantization of BERTurk (all `nn.Linear`) | D |
 
 Preprocessing (B): regex normalization of noisy text – Turkish-aware lower-casing, leetspeak
-(`0r0spu → orospu`), repeated letters (`çoooook → çok`), in-word separators (`s.i.k → sik`),
+(`0yun → oyun`), repeated letters (`çoooook → çok`), in-word separators (`ç.o.k → çok`),
 Turkish-to-ASCII folding. Latency budget (D): **50 ms per message on CPU**.
 
 ![architecture](docs/architecture.png)

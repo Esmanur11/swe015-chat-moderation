@@ -12,7 +12,7 @@ import time
 def test_app():
     """Build the Gradio app (without launching it) and send two messages through it."""
     import app
-    for msg in ("Bu maçta harika oynadın, tebrikler!", "s.i.k.t.i.r git buradan"):
+    for msg in ("Bu maçta harika oynadın, tebrikler!", "Defol git buradan, s.a.l.a.k herif"):
         _, html, log, cmp, summary, chat, logs = app.send(msg, app.DEFAULT, True, [], [])
         assert chat and logs and len(cmp) == len(app.MODELS), "app did not return a result"
         print(f"[app] {msg!r} -> {chat[-1]['label']} ({chat[-1]['conf']:.2f}) in {chat[-1]['ms']:.1f} ms; "

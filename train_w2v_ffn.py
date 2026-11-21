@@ -25,7 +25,7 @@ def main():
     C.W2V_PATH.parent.mkdir(parents=True, exist_ok=True)
     w2v.save(str(C.W2V_PATH))
     print(f"[w2v] vocabulary = {len(w2v.wv):,} words")
-    for probe in ("siktir", "salak", "mac"):
+    for probe in ("aptal", "mac", "oyun"):
         if probe in w2v.wv:
             print(f"[w2v] nearest to '{probe}':", [w for w, _ in w2v.wv.most_similar(probe, topn=5)])
 

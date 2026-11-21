@@ -20,7 +20,7 @@ RE_URL = re.compile(r"(https?://\S+|www\.\S+|\bURL\b)", re.IGNORECASE)
 RE_USER = re.compile(r"@USER\b|@\w+")
 RE_HASHTAG = re.compile(r"#(\w+)")
 RE_REPEAT = re.compile(r"(\w)\1{2,}")                         # 3+ identical letters
-RE_INWORD_SEP = re.compile(r"(?<=\w)[.\-_*+]+(?=\w)")           # s.i.k / o-r-o-s-p-u / s*k
+RE_INWORD_SEP = re.compile(r"(?<=\w)[.\-_*+]+(?=\w)")           # s.a.l.a.k / a-p-t-a-l / a*ptal
 RE_LEET_TOKEN = re.compile(r"\b(?=[\w@$€]*[a-zçğıöşü])(?=[\w@$€]*[0-9@$€])[\w@$€]+\b", re.IGNORECASE)
 RE_NON_WORD = re.compile(r"[^\w\s]")
 RE_SPACES = re.compile(r"\s+")
@@ -59,6 +59,6 @@ def tokenize(text: str) -> list[str]:
 
 
 if __name__ == "__main__":
-    for s in ["@USER Sen tam bir 0r0spu çocuğusun!!! URL", "s.i.k.t.i.r git", "ÇOOOOK GÜZELLL bir maç",
+    for s in ["@USER Sen tam bir 4pt4l mısın!!! URL", "s.a.l.a.k herif", "ÇOOOOK GÜZELLL bir maç",
               "IŞIK ve İSTANBUL", "#Galatasaray kazandııı"]:
         print(f"{s!r:45} -> {normalize(s)!r:35} | BERT: {light_normalize(s)!r}")

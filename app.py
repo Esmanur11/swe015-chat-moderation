@@ -113,8 +113,8 @@ with gr.Blocks(title="SWE015 – Real-Time Chat Moderation", **_blocks_kw) as de
             with gr.Row():
                 box = gr.Textbox(placeholder="Mesajını yaz ve Enter'a bas…", show_label=False, scale=5)
                 btn = gr.Button("Send", variant="primary", scale=1)
-            gr.Examples(["Bu maçta harika oynadın, tebrikler!", "s.i.k.t.i.r git buradan 0r0spu çocuğu",
-                         "AMKKK neden yine kaybettik", "Sen ne kadar mal bir oyuncusun ya",
+            gr.Examples(["Bu maçta harika oynadın, tebrikler!", "Defol git buradan, s.a.l.a.k herif",
+                         "Gerizekalı mısın, neden pas vermiyorsun?", "Sen ne kadar beceriksiz bir oyuncusun ya",
                          "Bugün hava çok güzel, akşam oynayalım mı?"], inputs=box)
             cmp_df = gr.Dataframe(label="All models on the last message", interactive=False)
         with gr.Column(scale=2):

@@ -126,6 +126,8 @@ def build_values(args):
     err = pd.read_csv(err_path) if err_path.exists() else pd.DataFrame(columns=["text", "label", "bert_int8"])
     for kind, lab, key in (("false positive", 0, "FP"), ("false negative", 1, "FN")):
         e = err[err.label == lab]
+        clean = e[[not matcher.matches(str(t)) for t in e["text"]]]   # avoid showing profanity on slides
+        e = clean if len(clean) else e
         if len(e):
             row = e.iloc[0]
             p = row["bert_int8"]

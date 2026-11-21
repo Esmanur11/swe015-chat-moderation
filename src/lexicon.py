@@ -4,23 +4,21 @@ The lexicon = a small hand-written seed list of Turkish profanity stems
             + words that are strongly associated with the OFF class in the TRAINING split
               (count >= MIN_COUNT and P(OFF | word) >= MIN_PRECISION).
 A message is flagged if any token matches a lexicon entry:
-  * exact match for short entries (< 4 letters, e.g. "amk", "aq"),
-  * otherwise a prefix of the token (Turkish is agglutinative: "siktir" -> "siktirin")
+  * exact match for short entries (< 4 letters, typical abbreviations),
+  * otherwise a prefix of the token (Turkish is agglutinative: "salak" -> "salaksin")
     is within Levenshtein distance 1 of the entry (exact prefix for 4-letter entries).
 """
+import codecs
 import json
 from collections import Counter
 from functools import lru_cache
 
 from .normalize import tokenize
 
-# Hand-written seed stems (already in normalized, ASCII-folded form).
-SEED_LEXICON = [
-    "amk", "aq", "amq", "mk", "oc", "aw", "sg", "siktir", "sikerim", "sikik", "sikis", "yarrak", "yarak",
-    "orospu", "orosbu", "kahpe", "pic", "pezevenk", "gavat", "ibne", "got", "gotveren", "gotlek",
-    "amina", "amcik", "yavsak", "serefsiz", "haysiyetsiz", "pust", "dalyarak", "salak", "aptal",
-    "gerizekali", "mal", "andaval", "dangalak", "hiyar", "ahmak", "lavuk", "kaltak", "surtuk",
-]
+# Hand-written seed stems (normalized, ASCII-folded form). The list is stored ROT13-encoded so that
+# profanity is not displayed in plain text in the repository; it is decoded when the module is imported.
+_SEED_ROT13 = ("nzx nd nzd zx bp nj ft fvxgve fvxrevz fvxvx fvxvf lneenx lnenx bebfch bebfoh xnucr cvp crmrirax tning voar tbg tbgirera tbgyrx nzvan nzpvx lnifnx frersfvm unlfvlrgfvm chfg qnylnenx fnynx ncgny trevmrxnyv zny naqniny qnatnynx uvlne nuznx ynihx xnygnx fheghx")
+SEED_LEXICON = [codecs.decode(w, "rot13") for w in _SEED_ROT13.split()]
 
 MIN_COUNT = 5
 MIN_PRECISION = 0.85
@@ -84,7 +82,7 @@ class LexiconMatcher:
     def match_token(self, tok: str) -> str | None:
         """Return the lexicon entry a token matches, or None.
         Short entries must match exactly; long entries may match a PREFIX of the token
-        (Turkish suffixes: "siktir" -> "siktirin") within Levenshtein distance 1."""
+        (Turkish suffixes: "salak" -> "salaksin") within Levenshtein distance 1."""
         if tok in self.short:
             return tok
         for k in range(3, len(tok) + 1):
